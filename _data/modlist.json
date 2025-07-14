@@ -759,7 +759,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0+eef0e8cf0f3d4b0fc85976977d4ffb41cf854759"
+    "version": "0.1.0.0+2b36cd31975c32de304f4011d82adf00b0337e21"
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
@@ -1256,18 +1256,6 @@
   {
     "author": "Wiggler310",
     "name": "Wild Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MelonDove and Ancot",
-    "name": "Wolfein Race",
-    "steamId": "3473140562",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ancot and MelonDove",
-    "name": "Wolfein Race Gene Patch",
     "steamId": null,
     "version": null
   },

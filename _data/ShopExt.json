@@ -4011,7 +4011,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -4068,7 +4068,7 @@
       "defName": "Alien_Cinder",
       "enabled": true,
       "name": "Cinder",
-      "price": 2917
+      "price": 3500
     },
     {
       "data": {
@@ -4127,7 +4127,398 @@
       "defName": "Wolfein_Race",
       "enabled": true,
       "name": "Wolfein race",
-      "price": 3333
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A weird being.",
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "generic anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A canine-type anthro.",
+      "defName": "CanineAnthro",
+      "enabled": true,
+      "name": "canine anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A feline-type anthro.",
+      "defName": "FelineAnthro",
+      "enabled": true,
+      "name": "feline anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A scaled anthro.",
+      "defName": "ReptileAnthro",
+      "enabled": true,
+      "name": "scaly anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthro frogs and axolotls.",
+      "defName": "AmpAnthro",
+      "enabled": true,
+      "name": "amphibian anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthro bugs.",
+      "defName": "BugAnthro",
+      "enabled": true,
+      "name": "insect anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthro bats.",
+      "defName": "BatAnthro",
+      "enabled": true,
+      "name": "bat anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthro rabbits.",
+      "defName": "BunAnthro",
+      "enabled": true,
+      "name": "bunny anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthro cows, goats, etc from the Bovidae family.",
+      "defName": "BovAnthro",
+      "enabled": true,
+      "name": "bovidae anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Avian anthros.",
+      "defName": "AvianAnthro",
+      "enabled": true,
+      "name": "avian anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthropomorphic Mustelidae",
+      "defName": "MustAnthro",
+      "enabled": true,
+      "name": "mustelid anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fish anthros, for some mysterious reason, don't need water. They breathe just fine on land.",
+      "defName": "FishAnthro",
+      "enabled": true,
+      "name": "fish anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Skulldogs, but less specifically dogs. Cute skellyfaced anthros!",
+      "defName": "SkullAnthro",
+      "enabled": true,
+      "name": "skull anthro",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feathery alien creatures with traits reminescent of prehistoric raptors.",
+      "defName": "Avali",
+      "enabled": true,
+      "name": "avali",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Big fluffy things with cheese-wedge looking heads.",
+      "defName": "Sergal",
+      "enabled": true,
+      "name": "sergal",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Synthetic beings with a form-factor inspired by anthropomorphic animals.",
+      "defName": "Synth",
+      "enabled": true,
+      "name": "synth",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anthropomorphic, furry cyborgs with a visor screen displaying their face, a robotic chest, and robotic thighs.",
+      "defName": "Protogen",
+      "enabled": true,
+      "name": "protogen",
+      "price": 1000
     }
   ]
 }

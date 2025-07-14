@@ -1,5 +1,5 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "RoflrawrVT's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
@@ -68,12 +68,10 @@ mods:
   author: true
 
 # Build settings
-theme: SirRandoo/type-on-strap
-markdown: kramdown
-sass:
-  style: compressed
+remote_theme: SirRandoo/Type-on-Strap
+plugins:
+  -
 
-permalink: pretty
-
+theme: jekyll-theme-slate
 exclude:
   - build-scripts

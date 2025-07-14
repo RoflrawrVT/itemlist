@@ -43,7 +43,7 @@
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool (1.6 Temp)",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -72,6 +72,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "Altered Carbon 2: ReSleeved",
+    "steamId": "2196278117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Bread MO and AobaKuma",
+    "name": "Ancient mining industry",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MO",
     "name": "Ancient urban ruins",
     "steamId": "3316062206",
@@ -86,6 +110,12 @@
   {
     "author": "Bud8013",
     "name": "Atlyss Races - Biotech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Defi",
+    "name": "Auto-Cut Blight - 1.6",
     "steamId": null,
     "version": null
   },
@@ -124,6 +154,12 @@
     "name": "Biotech xenotype expanded - Rotfish",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Blood Animations",
+    "steamId": "3521404421",
+    "version": "1.0.0.0"
   },
   {
     "author": "CrashM",
@@ -171,7 +207,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.0"
+    "version": "1.9.1"
   },
   {
     "author": "Nals",
@@ -222,6 +258,12 @@
     "version": null
   },
   {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Heather Athebyne",
     "name": "Drop Nothing When Settling",
     "steamId": null,
@@ -260,6 +302,12 @@
   {
     "author": "BJR1984",
     "name": "Dubs Skylights Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
     "steamId": null,
     "version": null
   },
@@ -348,16 +396,10 @@
     "version": null
   },
   {
-    "author": "UwUtismXD",
+    "author": "Taveron",
     "name": "Increased Stack",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "4.1.0.0"
   },
   {
     "author": "Mlie",
@@ -376,6 +418,18 @@
     "name": "Melee Please (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neceros (Original) and Chris",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
   },
   {
     "author": "Zylle",
@@ -447,7 +501,7 @@
     "author": "Ingendum",
     "name": "Raider Swarm Compression",
     "steamId": "3515541126",
-    "version": "1.6+0fcad8c1794c961cead1827548cccd546edf626b"
+    "version": "1.6+d5d66a8848f7a2e657fb001610fde9273ee004c2"
   },
   {
     "author": "Seanggag",
@@ -514,6 +568,12 @@
     "name": "Rimsenal Xenotype Pack - Harana",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+be1ff242ffd9b61a532cfb790d8ff9714a471ea3"
   },
   {
     "author": "Zaljerem",
@@ -588,6 +648,12 @@
     "version": null
   },
   {
+    "author": "legodude17",
+    "name": "Smarter Deconstruction and Mining (Continued)",
+    "steamId": "3261302741",
+    "version": "1.6.0"
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -598,6 +664,18 @@
     "name": "Solar Flares Disable Mechanoids",
     "steamId": "3501602388",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.1.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": "2502518544",
+    "version": "0.8"
   },
   {
     "author": "alite",
@@ -730,12 +808,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, xrushha and legodude17",
@@ -1092,6 +1164,30 @@
     "version": "1.4.1.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0+6a70b1976da3315c41359fb0a7cab1ac98cc7c4c"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Vehicles Expanded - Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
     "name": "Vanilla Weapons Expanded - Bioferrite",
     "steamId": null,
@@ -1122,6 +1218,30 @@
     "version": null
   },
   {
+    "author": "LotusLand",
+    "name": "Weapon Upgrade",
+    "steamId": "3395769930",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wiggler310",
+    "name": "Wild Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MelonDove and Ancot",
     "name": "Wolfein Race",
     "steamId": "3473140562",
@@ -1140,10 +1260,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
+    "author": "YAYO and Soky",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",

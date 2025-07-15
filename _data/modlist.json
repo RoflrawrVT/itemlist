@@ -102,6 +102,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "3215569151",
@@ -112,18 +118,6 @@
     "name": "XML Extensions",
     "steamId": "2574315206",
     "version": "1.9.1"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "erdelf",
@@ -324,6 +318,12 @@
     "version": null
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Archotech",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Erin",
     "name": "Erin's FFXIV Races",
     "steamId": null,
@@ -356,6 +356,12 @@
   {
     "author": "FarmerJoe",
     "name": "Fertility scale with lifespan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Forced Rearmament",
     "steamId": null,
     "version": null
   },
@@ -418,6 +424,12 @@
     "name": "Inject Genes",
     "steamId": "2918091446",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -484,6 +496,12 @@
     "name": "No Version Warning",
     "steamId": "2599504692",
     "version": "1.6.5"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kinighte",
@@ -672,6 +690,12 @@
     "version": "1.6.0"
   },
   {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.6.0"
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -696,6 +720,12 @@
     "version": "0.8"
   },
   {
+    "author": "Defi",
+    "name": "Stabilize Bleeding",
+    "steamId": "3521178066",
+    "version": "1.17.0.0"
+  },
+  {
     "author": "alite",
     "name": "Technology Helps Children Learn Fast",
     "steamId": null,
@@ -704,6 +734,12 @@
   {
     "author": "Akarthus",
     "name": "The Cosmic Odyssey - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Akarthus",
+    "name": "The Cosmic Odyssey - Bionic Enhancement",
     "steamId": null,
     "version": null
   },
@@ -732,6 +768,12 @@
     "version": null
   },
   {
+    "author": "Shenanigans",
+    "name": "Tribal Tattoos",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -750,10 +792,10 @@
     "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
   },
   {
-    "author": "Shenanigans",
-    "name": "Tribal Tattoos",
-    "steamId": null,
-    "version": null
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
   },
   {
     "author": "Ushanka",
@@ -1236,6 +1278,12 @@
     "version": null
   },
   {
+    "author": "vin",
+    "name": "Warehouse Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "LotusLand",
     "name": "Weapon Upgrade",
     "steamId": "3395769930",
@@ -1246,6 +1294,12 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
+  },
+  {
+    "author": "Tixiv",
+    "name": "Who shot my leg off?",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",

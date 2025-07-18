@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 4000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,12 +57,12 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -72,8 +72,8 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shortcircuit",
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -128,11 +128,6 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -243,12 +238,12 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -426,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 84
 }

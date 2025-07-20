@@ -30,6 +30,12 @@
     "version": null
   },
   {
+    "author": "Echo Foxtrot",
+    "name": "Acceptable Barracks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Soul, Phaneron and Bradson",
     "name": "Adaptive Storage Framework",
     "steamId": "3033901359",
@@ -216,6 +222,12 @@
     "version": "3.3.2.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.1.0"
+  },
+  {
     "author": "alite",
     "name": "Children Can Learn Fast",
     "steamId": null,
@@ -250,12 +262,6 @@
     "name": "Cleaning Speed",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.9325.39569"
   },
   {
     "author": "Nalzurin and Yaveton",
@@ -298,6 +304,24 @@
     "name": "Drop Nothing When Settling",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9332.29106"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
   },
   {
     "author": "Dubwise",
@@ -390,10 +414,34 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "ThatHitmann",
+    "name": "Geneva Checklist",
+    "steamId": "3339044171",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Helixien",
     "name": "Gestalt Engine (Continued)",
     "steamId": "3392334612",
     "version": "1.6.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool! (Continued)",
+    "steamId": "2947023388",
+    "version": "1.6.0"
+  },
+  {
+    "author": "SirProok",
+    "name": "Grievous Wounds",
+    "steamId": "3459265518",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MakeItSo",
+    "name": "Growth Vats: Overclocked",
+    "steamId": "2887084050",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -564,6 +612,12 @@
     "version": null
   },
   {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
@@ -654,6 +708,12 @@
     "version": null
   },
   {
+    "author": "Roolo, Updated by Ogliss and kotobike",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MemeGoddess",
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
@@ -732,6 +792,12 @@
     "version": null
   },
   {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
@@ -776,6 +842,12 @@
   {
     "author": "alite",
     "name": "Technology Helps Children Learn Fast",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Terraform Rimworld",
     "steamId": null,
     "version": null
   },
@@ -860,8 +932,8 @@
   {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Erin and Sarg Bjornson",
@@ -934,6 +1006,12 @@
     "name": "Vanilla Factions Expanded - Medieval 2",
     "steamId": "3444347874",
     "version": "1.0.6.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
@@ -1239,7 +1317,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
+    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
   },
   {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
@@ -1344,6 +1422,12 @@
     "version": null
   },
   {
+    "author": "Crustypeanut and Mersid",
+    "name": "War Crimes Expanded 2 Core (Updated)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "vin",
     "name": "Warehouse Storage",
     "steamId": null,
@@ -1394,8 +1478,8 @@
   {
     "author": "DRILLED_HEAD",
     "name": "[DHM]Hybrid-Powered Gravships",
-    "steamId": null,
-    "version": null
+    "steamId": "3524491355",
+    "version": "0.0.0.0"
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
@@ -1426,5 +1510,17 @@
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: Militaires Sans Frontieres",
+    "steamId": "3207066520",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wyr3d",
+    "name": "[WYD] Worthless Junk (Adjusted)",
+    "steamId": null,
+    "version": null
   }
 ]

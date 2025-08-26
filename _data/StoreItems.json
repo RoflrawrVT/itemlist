@@ -20017,18 +20017,6 @@
 		"defname": "Bed_SimpleGuest"
 	},
 	{
-		"abr": "amphibiananthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AmpAnthro"
-	},
-	{
-		"abr": "amphibiananthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AmpAnthro"
-	},
-	{
 		"abr": "ancientautomaticdrillingrig",
 		"price": 658,
 		"category": "Production",
@@ -20179,12 +20167,6 @@
 		"defname": "BreadMoAM_AncientUraniumMiningCars"
 	},
 	{
-		"abr": "apples",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawApples"
-	},
-	{
 		"abr": "archotechstack",
 		"price": 5833,
 		"category": "Neural stack",
@@ -20209,40 +20191,10 @@
 		"defname": "AC_Gun_Autorevolver"
 	},
 	{
-		"abr": "avali",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Avali"
-	},
-	{
-		"abr": "avalimeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Avali"
-	},
-	{
-		"abr": "aviananthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvianAnthro"
-	},
-	{
-		"abr": "aviananthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AvianAnthro"
-	},
-	{
 		"abr": "badger",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Badger"
-	},
-	{
-		"abr": "bananas",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawBananas"
 	},
 	{
 		"abr": "bangbus",
@@ -20251,52 +20203,16 @@
 		"defname": "VVE_BangBus"
 	},
 	{
-		"abr": "batanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BatAnthro"
-	},
-	{
-		"abr": "batanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_BatAnthro"
-	},
-	{
 		"abr": "bigrig",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_BigRig"
 	},
 	{
-		"abr": "bovidaeanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BovAnthro"
-	},
-	{
-		"abr": "bovidaeanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_BovAnthro"
-	},
-	{
 		"abr": "bulldog",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Bulldog"
-	},
-	{
-		"abr": "bunnyanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BunAnthro"
-	},
-	{
-		"abr": "bunnyanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_BunAnthro"
 	},
 	{
 		"abr": "bunsen",
@@ -20309,24 +20225,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Burya"
-	},
-	{
-		"abr": "butcherstump",
-		"price": 87,
-		"category": "Production",
-		"defname": "ButcherStump"
-	},
-	{
-		"abr": "canineanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "CanineAnthro"
-	},
-	{
-		"abr": "canineanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_CanineAnthro"
 	},
 	{
 		"abr": "caralternator",
@@ -20395,12 +20293,6 @@
 		"defname": "VVE_Cherokee"
 	},
 	{
-		"abr": "chestnuts",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawChestnuts"
-	},
-	{
 		"abr": "chrysalisarmor",
 		"price": 4375,
 		"category": "Armor",
@@ -20413,28 +20305,10 @@
 		"defname": "AC_Apparel_ChrysalisHelmet"
 	},
 	{
-		"abr": "coconuts",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawCoconuts"
-	},
-	{
 		"abr": "cuirassierbelt",
 		"price": 1333,
 		"category": "Utility",
 		"defname": "AC_CuirassierBelt"
-	},
-	{
-		"abr": "dandelionprecursor",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "DandelionPrecursor"
-	},
-	{
-		"abr": "dandelionwine",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "DandelionWine"
 	},
 	{
 		"abr": "dinghy",
@@ -20503,46 +20377,16 @@
 		"defname": "AC_EnviroSuitHelmet"
 	},
 	{
-		"abr": "felineanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "FelineAnthro"
-	},
-	{
-		"abr": "felineanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_FelineAnthro"
-	},
-	{
 		"abr": "fermentingbarrel",
 		"price": 135,
 		"category": "Production",
 		"defname": "BarrelProcessor"
 	},
 	{
-		"abr": "fishanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "FishAnthro"
-	},
-	{
-		"abr": "fishanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_FishAnthro"
-	},
-	{
 		"abr": "frog",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Frog"
-	},
-	{
-		"abr": "fruitsalad",
-		"price": 20,
-		"category": "Meals",
-		"defname": "FruitSalad"
 	},
 	{
 		"abr": "fusilierarmor",
@@ -20561,18 +20405,6 @@
 		"price": 667,
 		"category": "Misc",
 		"defname": "VVE_GarageCabinet"
-	},
-	{
-		"abr": "genericanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Anthro"
-	},
-	{
-		"abr": "genericanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Anthro"
 	},
 	{
 		"abr": "glidepack",
@@ -20701,18 +20533,6 @@
 		"defname": "VVE_Highwayman"
 	},
 	{
-		"abr": "insectanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BugAnthro"
-	},
-	{
-		"abr": "insectanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_BugAnthro"
-	},
-	{
 		"abr": "lancierhelmet",
 		"price": 2858,
 		"category": "Headgear",
@@ -20735,12 +20555,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Louie"
-	},
-	{
-		"abr": "mangos",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawMangos"
 	},
 	{
 		"abr": "marshal",
@@ -20773,18 +20587,6 @@
 		"defname": "BreadMoAM_Turret_ShotgunTurretN"
 	},
 	{
-		"abr": "mintleaves",
-		"price": 3,
-		"category": "Vegetarian",
-		"defname": "RawMint"
-	},
-	{
-		"abr": "minttea",
-		"price": 10,
-		"category": "Drugs",
-		"defname": "MintTea"
-	},
-	{
 		"abr": "monoarm-blade",
 		"price": 4750,
 		"category": "Bionic",
@@ -20801,18 +20603,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Mule"
-	},
-	{
-		"abr": "mustelidanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MustAnthro"
-	},
-	{
-		"abr": "mustelidanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_MustAnthro"
 	},
 	{
 		"abr": "nanostoragedrive",
@@ -20845,12 +20635,6 @@
 		"defname": "VVE_Nomad"
 	},
 	{
-		"abr": "oranges",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawOranges"
-	},
-	{
 		"abr": "oredressingmachine",
 		"price": 4342,
 		"category": "Production",
@@ -20863,40 +20647,16 @@
 		"defname": "VVE_Paladin"
 	},
 	{
-		"abr": "pears",
-		"price": 2,
-		"category": "Fruit",
-		"defname": "RawPears"
-	},
-	{
 		"abr": "plasmaarm-blade",
 		"price": 4750,
 		"category": "Bionic",
 		"defname": "AC_RogianArmBlade_Plasma"
 	},
 	{
-		"abr": "protogen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Protogen"
-	},
-	{
-		"abr": "protogenmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Protogen"
-	},
-	{
 		"abr": "prowler",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Prowler"
-	},
-	{
-		"abr": "rawdandelions",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawDandelions"
 	},
 	{
 		"abr": "refuelingpump",
@@ -20917,52 +20677,10 @@
 		"defname": "VVE_Roadrunner"
 	},
 	{
-		"abr": "roastedchestnuts",
-		"price": 20,
-		"category": "Meals",
-		"defname": "RoastedChestnuts"
-	},
-	{
-		"abr": "scalyanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ReptileAnthro"
-	},
-	{
-		"abr": "scalyanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_ReptileAnthro"
-	},
-	{
 		"abr": "scytheman",
 		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Scytheman"
-	},
-	{
-		"abr": "sergal",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Sergal"
-	},
-	{
-		"abr": "sergalmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Sergal"
-	},
-	{
-		"abr": "skullanthro",
-		"price": -10,
-		"category": "Animal",
-		"defname": "SkullAnthro"
-	},
-	{
-		"abr": "skullanthromeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_SkullAnthro"
 	},
 	{
 		"abr": "sleevecasket",
@@ -20993,18 +20711,6 @@
 		"price": 392,
 		"category": "Production",
 		"defname": "AC_StackCache"
-	},
-	{
-		"abr": "synth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Synth"
-	},
-	{
-		"abr": "synthmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Synth"
 	},
 	{
 		"abr": "tango",
@@ -26939,199 +26645,7 @@
 		"price": 48,
 		"category": "Headgear",
 		"defname": "Apparel_KidWarMask"
-	},
-	{
-		"abr": "lunarcraftskinweave",
-		"price": 2858,
-		"category": "Bionic",
-		"defname": "ALE_skin_T1_B"
-	},
-	{
-		"abr": "memoryprojector",
-		"price": 3658,
-		"category": "Ultratech",
-		"defname": "USH_MemoryProjector"
-	},
-	{
-		"abr": "neutroshine",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "Neutroshine"
-	},
-	{
-		"abr": "poweredassaultarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_PoweredAssaultArmor"
-	},
-	{
-		"abr": "poweredassaultarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_PoweredAssaultArmorHelmet"
-	},
-	{
-		"abr": "psytrainer(clean)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_CleanSTNL"
-	},
-	{
-		"abr": "psytrainer(hydrend)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_DestroyGearSTNL"
-	},
-	{
-		"abr": "psytrainer(hydroshield)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HydromancerHydroShieldSTNL"
-	},
-	{
-		"abr": "psytrainer(laceraqua)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HydromancerLaceraquaSTNL"
-	},
-	{
-		"abr": "psytrainer(neuralsiphon)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HydromancerNeuralSiphonSTNL"
-	},
-	{
-		"abr": "psytrainer(purifyingtide)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PurifyingTideSTNL"
-	},
-	{
-		"abr": "psytrainer(saltwounds)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SaltWoundsSTNL"
-	},
-	{
-		"abr": "psytrainer(scaldingstrike)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ScaldingBurstSTNL"
-	},
-	{
-		"abr": "psytrainer(torrentialrain)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TorrentialRainSTNL"
-	},
-	{
-		"abr": "psytrainer(wellspring)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HydromancerWellspringSTNL"
-	},
-	{
-		"abr": "psytrainer(whirlpool)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HydromancerVortexSTNL"
-	},
-	{
-		"abr": "reconpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ReconPowerArmor"
-	},
-	{
-		"abr": "reconpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ReconPowerArmorHelmet"
-	},
-	{
-		"abr": "samuraipowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_SamuraiPowerArmor"
-	},
-	{
-		"abr": "samuraipowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_SamuraiPowerArmorHelmet"
-	},
-	{
-		"abr": "scoutpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ScoutPowerArmor"
-	},
-	{
-		"abr": "scoutpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ScoutPowerArmorHelmet"
-	},
-	{
-		"abr": "shocktrooperarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ShockTrooperArmor"
-	},
-	{
-		"abr": "shocktrooperarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ShockTrooperArmorHelmet"
-	},
-	{
-		"abr": "skinweave",
-		"price": 2075,
-		"category": "Bionic",
-		"defname": "ALE_skin_T1_A"
-	},
-	{
-		"abr": "talbuk",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "Talbuk"
-	},
-	{
-		"abr": "techprint(psykerskin)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_ALE_Skin_psker"
-	},
-	{
-		"abr": "techprint(syntheticskin)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_ALE_Skin"
-	},
-	{
-		"abr": "test",
-		"price": 667,
-		"category": "Animals",
-		"defname": "Cougar_A"
-	},
-	{
-		"abr": "testmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cougar_A"
-	},
-	{
-		"abr": "thrumdragon",
-		"price": 7500,
-		"category": "Animals",
-		"defname": "GR_Thrumdragon"
-	},
-	{
-		"abr": "thrumdragonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GR_Thrumdragon"
 	}
 	],
-	"total": 4522
+	"total": 4490
 }

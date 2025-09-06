@@ -3,13 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.1.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "ilyvion",
     "name": "Loading Progress",
     "steamId": "3535481557",
-    "version": "0.9.3+e7c34d5d5f5e1768e180240cc3476ed74c61334f"
+    "version": "0.9.5+abccf3b51b7ee1e2928524eee33996a6b178d2d3"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -58,6 +58,12 @@
     "name": "Adaptive Simple Storage",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.6.0"
   },
   {
     "author": "Nina.Goblin",
@@ -124,12 +130,6 @@
     "name": "Ancient mining industry",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
-    "version": "1.0.0.0"
   },
   {
     "author": "Jester Romut",
@@ -204,6 +204,12 @@
     "version": null
   },
   {
+    "author": "Dingo",
+    "name": "Autoclose Event Notifications",
+    "steamId": "3226920093",
+    "version": "1.6.4497.1"
+  },
+  {
     "author": "Ben",
     "name": "Automatic Night Owl",
     "steamId": "2056012179",
@@ -248,7 +254,7 @@
   {
     "author": "Fuu Chan",
     "name": "Blood Animations",
-    "steamId": "3521404421",
+    "steamId": "3228047321",
     "version": "1.0.0.0"
   },
   {
@@ -312,6 +318,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "3215569151",
@@ -354,6 +366,12 @@
     "version": null
   },
   {
+    "author": "Anonymous",
+    "name": "Cold slows down bleeding",
+    "steamId": "3551282414",
+    "version": "1.0.0"
+  },
+  {
     "author": "HeatherAthebyne",
     "name": "Crafting Spot Slave Gear",
     "steamId": null,
@@ -364,6 +382,12 @@
     "name": "Cuddles",
     "steamId": "3456415745",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ghostie",
+    "name": "Cute Boy Hairstyles",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Chris",
@@ -531,7 +555,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9347.31617"
+    "version": "1.0.9374.28061"
   },
   {
     "author": "Dubwise",
@@ -596,6 +620,24 @@
   {
     "author": "shzacx",
     "name": "Fallout-10mm Pistol",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Resurrectionem",
+    "name": "Far Easterner, Ama the Three Raijus of the Far East Xenotypes and Factions",
     "steamId": null,
     "version": null
   },
@@ -678,16 +720,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Helixien",
-    "name": "HALO: UNSC Armoury (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PeteTimesSix",
     "name": "Hard Vacuum",
     "steamId": "3530415332",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lytalm",
@@ -746,6 +788,36 @@
   {
     "author": "Goblins4Lyfe",
     "name": "Kid Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kilo",
+    "name": "Kilo's Femboy Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.3"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
   },
@@ -810,6 +882,12 @@
     "version": null
   },
   {
+    "author": "Jdalt40",
+    "name": "No More Lethal Damage Threshold",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nina.Goblin",
     "name": "No One Left Behind (1.6)",
     "steamId": "3536586707",
@@ -819,7 +897,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.42"
+    "version": "1.6.47"
   },
   {
     "author": "Mr.Wireman",
@@ -873,7 +951,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
     "author": "Mort Strudel",
@@ -900,16 +978,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "ToxicYui",
+    "name": "Quality Power",
+    "steamId": "3552862196",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "3512466087",
     "version": "1.0.17"
   },
   {
-    "author": "esvn",
-    "name": "RPG Dialog",
-    "steamId": "3547971440",
-    "version": "1.0.0"
+    "author": "CharlotteRGB",
+    "name": "RGBmods Stimming Toys",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sandy",
@@ -936,16 +1020,16 @@
     "version": "1.6.1"
   },
   {
-    "author": "ocarina0001",
-    "name": "Realistic Meat Scaling",
-    "steamId": "3512796552",
+    "author": "Zaljerem",
+    "name": "Red Alert! (Continued)",
+    "steamId": "3559280714",
     "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+75fd2e732628d8a53947206c5e161917629327cb"
+    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
   },
   {
     "author": "Fox with a Shotgun, Shashlichnik ;p (aka Шашлычник ;р) and Lost",
@@ -1206,12 +1290,6 @@
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.6+a187a2ecb4465db166dbb9fa63f1f39e53db1695"
-  },
-  {
     "author": "AobaKuma",
     "name": "The Dead Man's Switch - Motorized",
     "steamId": null,
@@ -1251,7 +1329,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Captolamia",
@@ -1384,12 +1462,6 @@
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
-    "steamId": "2102143149",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki, Sokyran and Kikohi",
@@ -1626,12 +1698,6 @@
     "version": "1.4.1.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
-    "name": "Vanilla Vehicles Expanded",
-    "steamId": "3014906877",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded - Tier 3",
     "steamId": null,
@@ -1759,36 +1825,6 @@
   },
   {
     "author": "Chicken Plucker",
-    "name": "[RH2] Faction: Bounty Hunters",
-    "steamId": "2889605556",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: Gruppa Krovi",
-    "steamId": "3221155630",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: Militaires Sans Frontieres",
-    "steamId": "3207066520",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: The Rangers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: Utilitarian",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
     "name": "[RH2] V.O.I.D. Storyteller",
     "steamId": null,
     "version": null
@@ -1808,6 +1844,12 @@
   {
     "author": "Wyr3d",
     "name": "[WYD] Worthless Junk (Adjusted)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "莫鱼(chitoseender) and 堂丸(TangW)",
+    "name": "派系选择生态 Faction choose biomes",
     "steamId": null,
     "version": null
   }

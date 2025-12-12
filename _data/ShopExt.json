@@ -1971,50 +1971,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
       "stats": [
@@ -2122,40 +2078,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is gives a strange impression to the opponent.",
-      "stats": [
-        "-4% mental break threshold",
-        "+15.00% train animal chance",
-        "+15.00% tame animal chance",
-        "+15.00% trade price improvement",
-        "+15.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-4% mental break threshold",
-          "+15.00% train animal chance",
-          "+15.00% tame animal chance",
-          "+15.00% trade price improvement",
-          "+15.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ferian Race - Biotech",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Miraculous",
-      "name": "mysteriousenergy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
@@ -2234,7 +2156,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Timmy tends to let his mind drift, even in the middle of work. he may sometimes stop tasks at random.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -2264,7 +2186,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Timmy has a screw loose, but it comes with a sharper scientific mind.",
       "stats": [
         "x115% research speed"
       ],
@@ -2294,7 +2216,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strives for perfection in his work. he produces higher-quality products, but works more slowly. Failing to meet his standards causes unhappiness, and on rare occasions he may abandon a project mid-way.",
       "stats": [
         "x65% global work speed"
       ],
@@ -2320,7 +2242,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "description": "Timmy's instincts lean heavily toward cowardice. In danger, he will often hide or run before standing to fight.",
       "stats": [],
       "conflicts": [
         "brave",
@@ -2350,7 +2272,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Timmy has stronger mental and physical fortitude than most. he can endure pain more readily, and is slower to break under harsh conditions.",
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold",
@@ -2394,7 +2316,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Minor bruises and scrapes plague Timmy, usually from tripping or falling due to poor coordination.",
       "stats": [],
       "conflicts": [
         "nimble"
@@ -2420,7 +2342,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Timmy enjoys the heat of a dry summer day. he doesn't mind working up a sweat or sleeping in warmth.",
       "stats": [
         "+18.0F max comfortable temperature"
       ],
@@ -2446,7 +2368,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Timmy enjoys the chill of a brisk winter night. he doesn't mind shivering or sleeping in the cold.",
       "stats": [
         "-18.0F min comfortable temperature"
       ],
@@ -2472,7 +2394,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "A bomb could go off beside Timmy while he sleeps, and he would keep right on sleeping. he can't be bothered to work or defend the colony mid-nap.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2494,7 +2416,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Timmy is naturally hygienic and organized. he doesn't track dirt or scatter trash, and enjoys cleaning.",
       "stats": [],
       "conflicts": [
         "slob"
@@ -2520,7 +2442,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Timmy is naturally sloppy, leaving trash and dirt scattered around. At least he isn't much bothered by messy surroundings.",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2546,7 +2468,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy struggles to take breaks or rest mid-job. he will keep working, even at the expense of his health or sleep.",
       "stats": [],
       "conflicts": [
         "absent-minded"
@@ -2572,7 +2494,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "description": "Timmy has never known nausea. Food poisoning and vomiting are foreign to him.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -2598,7 +2520,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy can't stand cruelty toward animals. he feels happier when nuzzled or acting as master to a tamed animal, but is more deeply upset when losing one. he also refuses to butcher animals.",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -2624,7 +2546,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Timmy believes in human superiority over animals. he dislikes bonding or being nuzzled, but feels satisfaction when animals die or are sold.",
       "stats": [],
       "conflicts": [
         "animallover",
@@ -2656,7 +2578,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "description": "Whether from bulk or awkward posture, Timmy has broken a few chairs in his time, and is likely to break more.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2678,7 +2600,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Timmy only plays by his own rules. When forced, he will drag his feet and work more slowly.",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2708,7 +2630,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Timmy needs clear direction on when and how to act. he works at normal speed only when ordered, and otherwise slows down.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -2738,7 +2660,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Timmy is fueled by spite. he can’t stand sharing the colony with rivals, and feels happier when one of them dies.",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2768,7 +2690,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Whether from trauma or fear of change, Timmy rejects modernity. he may lash out at machines, refuses to research, and feels satisfaction from destroying mechanoids.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -2798,7 +2720,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Timmy lives for a good time. he remembers parties fondly, and the joy lasts far longer than it does for most.",
       "stats": [],
       "conflicts": [
         "anxious"
@@ -2824,7 +2746,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Timmy has limited mental capacity. he learns slowly and struggles with conversation, but tends to be naturally happy.",
       "stats": [
         "-50% global learning factor",
         "-50.00% social impact",
@@ -2868,7 +2790,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Timmy has trained in melee combat and learned a special move to disarm opponents.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2916,7 +2838,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "description": "Timmy gets a sour stomach around blood or corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
         "desensitized",
@@ -2946,7 +2868,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Timmy is naturally anxious, especially in social situations. he avoids gatherings and sometimes retreats to his room to cope.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed.",
         "x200% global certainty loss factor"
@@ -2978,7 +2900,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin’ is ever enough for Timmy. he tends to move between partners and seeks intimacy often.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -3010,7 +2932,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Timmy gives his body only to a spouse and would never initiate divorce. he also dislikes nudity more than most.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -3042,7 +2964,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "An armchair and a screen are all Timmy needs to be happy. he never tires of watching television, and always feels good after.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3064,7 +2986,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Timmy enjoys the company of cats and gravitates toward bonding with them, but dislikes dogs.",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -3090,7 +3012,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Timmy enjoys the company of dogs and gravitates toward bonding with them, but dislikes cats.",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -3116,7 +3038,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Timmy has a sharp, logical mind. he researches faster than most, and his rational outlook makes him less prone to mental breaks.",
       "stats": [
         "+20% mental break threshold",
         "x130% research speed"
@@ -3148,7 +3070,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Timmy believes animals are essential to life and society. he feels happier with more of them around, and is especially skilled at taming and training.",
       "stats": [
         "x120% tame animal chance",
         "x120% train animal chance"
@@ -3180,7 +3102,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Timmy. he feels happier when near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3202,7 +3124,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
+      "description": "The mountains call to Timmy. he feels happier when near a large mountain.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3224,7 +3146,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy hides a twisted obsession. he treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes him happy, but going too long without fuels growing unrest.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -3250,7 +3172,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Timmy fights best when drunk. he grows more dangerous in melee the more intoxicated he becomes.",
       "stats": [
         "+4 melee"
       ],
@@ -3276,7 +3198,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compelled to steal, even from guests and allies, risking angering others.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3302,7 +3224,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf is a way of life for Timmy. he adores it and would rather die than give it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3332,7 +3254,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol is a way of life for Timmy. he adores drinking and would rather die than give it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3362,7 +3284,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Timmy loves to travel and feels happiest on the move. he grows restless when staying too long in one place, but moves quickly and forages well while caravanning.",
       "stats": [
         "+0.2 foraged food amount"
       ],
@@ -3392,7 +3314,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy is never fully asleep or awake. he lurches along in a slow, shambler-like state, and only sleeps once every few days.",
       "stats": [
         "x50% global work speed",
         "x70% move speed",
@@ -3426,7 +3348,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy has grown tired of the world. he struggles with bleak thoughts, making his personality difficult to befriend.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3448,7 +3370,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Timmy is hardened by old emotional trauma. he feels nothing from death or loss, whether animal, colonist, family, or prisoner.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -3478,7 +3400,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Only the finest meals satisfy Timmy. he feels indifferent toward ordinary food, but savors lavish meals and gains greater joy from them.",
       "stats": [
         "x70% eating speed"
       ],
@@ -3508,7 +3430,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Through scholastic pursuit, Timmy has become well-read. he excels in science and medicine, and tends patients with greater skill.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -3542,7 +3464,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Timmy believes infrastructure is everything. he is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.",
       "stats": [
         "+4 mining",
         "+4 construction",
@@ -3574,7 +3496,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "To Timmy, food is art. he creates beautiful, delicious meals that are almost always safe to eat.",
       "stats": [
         "+4 cooking",
         "+4 artistic",
@@ -3604,7 +3526,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora and fauna are vital to Timmy. he uses every part of plants and animals, and appreciates nature’s gifts.",
       "stats": [
         "+4 animals",
         "+4 plants",
@@ -3636,7 +3558,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "description": "Timmy has an eye for silver and a silver tongue to match. he values his own goods highly, and convinces others to do the same.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -3718,7 +3640,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Timmy bottles up his feelings for long stretches of time. When the pressure grows too great, he may suddenly break down.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -46043,6 +45965,3938 @@
       },
       "defName": "TM_Architect",
       "name": "architect"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a charismatic personality. he is good at social interactions and trading.",
+      "stats": [
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+5.00% animal products price improvement",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+5.00% animal products price improvement",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Charisma",
+      "name": "charismatic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very charismatic personality. he is great at social interactions and trading.",
+      "stats": [
+        "+4 social",
+        "+20.00% social impact",
+        "+20.00% negotiation ability",
+        "+20.00% conversion power",
+        "-20% global certainty loss factor",
+        "+10.00% animal products price improvement",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+4 social",
+          "+20.00% social impact",
+          "+20.00% negotiation ability",
+          "+20.00% conversion power",
+          "-20% global certainty loss factor",
+          "+10.00% animal products price improvement",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Charisma",
+      "name": "verycharismatic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has an intimidating personality, this gives him an advantage in social interactions.",
+      "stats": [
+        "+4 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "+10.00% Arrest success chance",
+        "+10% per day slave suppression fall rate",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement",
+        "+5.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "wimp",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "kind"
+        ],
+        "stats": [
+          "+4 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "+10.00% Arrest success chance",
+          "+10% per day slave suppression fall rate",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement",
+          "+5.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Intimidation",
+      "name": "intimidating"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very intimidating personality, this gives him a large advantage in social interactions.",
+      "stats": [
+        "+2 social",
+        "+20.00% social impact",
+        "+20.00% negotiation ability",
+        "+20.00% conversion power",
+        "+20.00% Arrest success chance",
+        "+20% per day slave suppression fall rate",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement",
+        "+10.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "wimp",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "kind"
+        ],
+        "stats": [
+          "+2 social",
+          "+20.00% social impact",
+          "+20.00% negotiation ability",
+          "+20.00% conversion power",
+          "+20.00% Arrest success chance",
+          "+20% per day slave suppression fall rate",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement",
+          "+10.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Intimidation",
+      "name": "veryintimidating"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has poor hand-eye coordination and will miss his target more often in combat.",
+      "stats": [
+        "-2 shooting",
+        "-10.0 shooting accuracy",
+        "-10.0 melee hit chance"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "-2 shooting",
+          "-10.0 shooting accuracy",
+          "-10.0 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_AimOffset",
+      "name": "pooraim"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has good hand-eye coordination and will miss his target less often in combat.",
+      "stats": [
+        "+2 shooting",
+        "+10.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+10.0 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_AimOffset",
+      "name": "steadyaim"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has great hand-eye coordination and will miss his target less often in combat.",
+      "stats": [
+        "+4 shooting",
+        "+15.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+15.0 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_AimOffset",
+      "name": "greataim"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a skilled crafter with artistic finesse, he enjoys putting things together and he's pretty good at it.",
+      "stats": [
+        "+3 crafting",
+        "+3 construction",
+        "+5 artistic",
+        "+25% smoothing speed",
+        "+10% general labor speed",
+        "+10% construction speed",
+        "+10% construct success chance",
+        "+10% repair success chance"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 crafting",
+          "+3 construction",
+          "+5 artistic",
+          "+25% smoothing speed",
+          "+10% general labor speed",
+          "+10% construction speed",
+          "+10% construct success chance",
+          "+10% repair success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Artisan",
+      "name": "artisan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an iron stomach. he can go without eating longer and it takes more to upset his stomach.",
+      "stats": [
+        "-30% bed hunger rate multiplier",
+        "+10% pain shock threshold",
+        "+10% immunity gain speed",
+        "+10% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "wimp",
+        "leadbelly"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "leadbelly"
+        ],
+        "stats": [
+          "-30% bed hunger rate multiplier",
+          "+10% pain shock threshold",
+          "+10% immunity gain speed",
+          "+10% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_IronStomach",
+      "name": "ironstomach"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has good reflexes and moves with finesse. he will land and dodge more attacks in melee combat.",
+      "stats": [
+        "+2 melee",
+        "+0.20 move speed",
+        "+5.0 melee hit chance",
+        "+10.0 melee dodge chance",
+        "+20% hunting stealth",
+        "-20% trap spring chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "rooted"
+        ],
+        "stats": [
+          "+2 melee",
+          "+0.20 move speed",
+          "+5.0 melee hit chance",
+          "+10.0 melee dodge chance",
+          "+20% hunting stealth",
+          "-20% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Agility",
+      "name": "agile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has great reflexes and moves like a ninja. he will land and dodge more attacks in melee combat.",
+      "stats": [
+        "+4 melee",
+        "+0.40 move speed",
+        "+10.0 melee hit chance",
+        "+20.0 melee dodge chance",
+        "+40% hunting stealth",
+        "-40% trap spring chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "rooted"
+        ],
+        "stats": [
+          "+4 melee",
+          "+0.40 move speed",
+          "+10.0 melee hit chance",
+          "+20.0 melee dodge chance",
+          "+40% hunting stealth",
+          "-40% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Agility",
+      "name": "ninja"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is more intelligent than average. he learns faster and has a good understanding of the world around him.",
+      "stats": [
+        "+3 intellectual",
+        "+1 medical",
+        "+10% global learning factor",
+        "+5% research speed",
+        "+5.00% negotiation ability",
+        "+5.00% conversion power",
+        "-5% global certainty loss factor",
+        "+5.00% animal products price improvement",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement",
+        "+5% hacking speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 intellectual",
+          "+1 medical",
+          "+10% global learning factor",
+          "+5% research speed",
+          "+5.00% negotiation ability",
+          "+5.00% conversion power",
+          "-5% global certainty loss factor",
+          "+5.00% animal products price improvement",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement",
+          "+5% hacking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Intelligence",
+      "name": "intelligent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is very intelligent. he learns faster and has a great understanding of the world around him.",
+      "stats": [
+        "+3 intellectual",
+        "+2 medical",
+        "+20% global learning factor",
+        "+10% research speed",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+10.00% animal products price improvement",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement",
+        "+10% hacking speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 intellectual",
+          "+2 medical",
+          "+20% global learning factor",
+          "+10% research speed",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+10.00% animal products price improvement",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement",
+          "+10% hacking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Intelligence",
+      "name": "veryintelligent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is aware of his surroundings and has a good understanding of how his actions affects others.",
+      "stats": [
+        "+1 intellectual",
+        "+1 medical",
+        "+1 social",
+        "+5.00% social impact",
+        "+5.00% negotiation ability",
+        "+5.00% conversion power",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement",
+        "+5.00% animal products price improvement",
+        "-5.00% food poison chance"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "abrasive",
+          "oblivious"
+        ],
+        "stats": [
+          "+1 intellectual",
+          "+1 medical",
+          "+1 social",
+          "+5.00% social impact",
+          "+5.00% negotiation ability",
+          "+5.00% conversion power",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement",
+          "+5.00% animal products price improvement",
+          "-5.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Perception",
+      "name": "perceptive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is very aware of his surroundings and has a great understanding of how his actions affects others.",
+      "stats": [
+        "+2 intellectual",
+        "+2 medical",
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement",
+        "+10.00% animal products price improvement",
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "abrasive",
+          "oblivious"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "+2 medical",
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement",
+          "+10.00% animal products price improvement",
+          "-10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Perception",
+      "name": "veryperceptive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is good at doging things. he is good at avoiding springing traps and dodging melee attacks.",
+      "stats": [
+        "+0.10 move speed",
+        "+10.0 melee dodge chance",
+        "-20% trap spring chance"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "rooted"
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+10.0 melee dodge chance",
+          "-20% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Evasion",
+      "name": "dodgy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is great at evading things. he is great at avoiding springing traps and dodging melee attacks.",
+      "stats": [
+        "+0.20 move speed",
+        "+20.0 melee dodge chance",
+        "-40% trap spring chance"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "rooted"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+20.0 melee dodge chance",
+          "-40% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Evasion",
+      "name": "evasive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a scientific mind. he is a good researcher and a fast learner.",
+      "stats": [
+        "+2 intellectual",
+        "+1 medical",
+        "+15% global learning factor",
+        "+10% research speed",
+        "+10% hacking speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "+1 medical",
+          "+15% global learning factor",
+          "+10% research speed",
+          "+10% hacking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Scientific",
+      "name": "scientific"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very scientific mind. he is a great researcher and a fast learner.",
+      "stats": [
+        "+2 intellectual",
+        "+2 medical",
+        "+30% global learning factor",
+        "+20% research speed",
+        "+20% hacking speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "+2 medical",
+          "+30% global learning factor",
+          "+20% research speed",
+          "+20% hacking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Scientific",
+      "name": "veryscientific"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has good health and an enduring personality. he is better at handling stressful situations than others.",
+      "stats": [
+        "-10% incoming damage multiplier",
+        "-10% mental break threshold",
+        "+10% pain shock threshold",
+        "+10% immunity gain speed",
+        "-10% global certainty loss factor",
+        "+10% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "-10% incoming damage multiplier",
+          "-10% mental break threshold",
+          "+10% pain shock threshold",
+          "+10% immunity gain speed",
+          "-10% global certainty loss factor",
+          "+10% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Endurance",
+      "name": "enduring"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has exceptional health and a very enduring personality. he is capable of handling high stress situations that others cannot.",
+      "stats": [
+        "-20% incoming damage multiplier",
+        "-20% mental break threshold",
+        "+20% pain shock threshold",
+        "+20% immunity gain speed",
+        "-20% global certainty loss factor",
+        "+10% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "-20% incoming damage multiplier",
+          "-20% mental break threshold",
+          "+20% pain shock threshold",
+          "+20% immunity gain speed",
+          "-20% global certainty loss factor",
+          "+10% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Endurance",
+      "name": "veryenduring"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is great at bargaining. he is great at social interactions and can find great deals while trading.",
+      "stats": [
+        "+3 social",
+        "+5.00% negotiation ability",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+5.00% animal products price improvement",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "annoyingvoice",
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 social",
+          "+5.00% negotiation ability",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+5.00% animal products price improvement",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Bargaining",
+      "name": "bargainer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is a hard bargainer. he is adept at social interactions and can find the best deals while trading.",
+      "stats": [
+        "+4 social",
+        "+10.00% negotiation ability",
+        "+20.00% conversion power",
+        "-20% global certainty loss factor",
+        "+5.00% animal products price improvement",
+        "+15.00% trade price improvement",
+        "+15.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "annoyingvoice",
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 social",
+          "+10.00% negotiation ability",
+          "+20.00% conversion power",
+          "-20% global certainty loss factor",
+          "+5.00% animal products price improvement",
+          "+15.00% trade price improvement",
+          "+15.00% drug sell price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Bargaining",
+      "name": "hardbargainer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has an uninspiring personality. he has less motivation to learn and puts less effort into social interactions.",
+      "stats": [
+        "-1 social",
+        "-10% global learning factor",
+        "-10.00% social impact",
+        "-10.00% negotiation ability",
+        "-10.00% conversion power",
+        "+10% global certainty loss factor",
+        "-10% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "-1 social",
+          "-10% global learning factor",
+          "-10.00% social impact",
+          "-10.00% negotiation ability",
+          "-10.00% conversion power",
+          "+10% global certainty loss factor",
+          "-10% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Inspiration",
+      "name": "uninspiring"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has an inspirational personality. he is good at social interactions and is a motivated learner .",
+      "stats": [
+        "+2 social",
+        "+1 intellectual",
+        "+10% global learning factor",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+10% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+1 intellectual",
+          "+10% global learning factor",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+10% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Inspiration",
+      "name": "inspirational"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very inspirational personality. he is great at social interactions and is a very motivated learner.",
+      "stats": [
+        "+3 social",
+        "+2 intellectual",
+        "+20% global learning factor",
+        "+20.00% social impact",
+        "+20.00% negotiation ability",
+        "+20.00% conversion power",
+        "-20% global certainty loss factor",
+        "+20% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+2 intellectual",
+          "+20% global learning factor",
+          "+20.00% social impact",
+          "+20.00% negotiation ability",
+          "+20.00% conversion power",
+          "-20% global certainty loss factor",
+          "+20% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Inspiration",
+      "name": "veryinspirational"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is a generous person, sometimes to a fault. he is a good negotiator but often does so by offering more than he should.",
+      "stats": [
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% conversion power",
+        "-5.00% trade price improvement",
+        "-5.00% drug sell price improvement",
+        "-5.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "abrasive",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "abrasive",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% conversion power",
+          "-5.00% trade price improvement",
+          "-5.00% drug sell price improvement",
+          "-5.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Generosity",
+      "name": "generous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is an overly generous person to a fault. he is a great negotiator but often does so by offering more than he should",
+      "stats": [
+        "+3 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+20.00% conversion power",
+        "-10.00% trade price improvement",
+        "-10.00% drug sell price improvement",
+        "-10.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "abrasive",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "abrasive",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+20.00% conversion power",
+          "-10.00% trade price improvement",
+          "-10.00% drug sell price improvement",
+          "-10.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Generosity",
+      "name": "overlygenerous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is good at working with scrap metal. he is great with a smelter and is efficient when using building materials. ",
+      "stats": [
+        "+2 construction",
+        "+2 crafting",
+        "+25% smelting speed",
+        "+25% construction speed",
+        "+10% repair success chance",
+        "+10% construct success chance",
+        "+25% mechanoid shredding speed",
+        "+10% mechanoid shredding efficiency"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 construction",
+          "+2 crafting",
+          "+25% smelting speed",
+          "+25% construction speed",
+          "+10% repair success chance",
+          "+10% construct success chance",
+          "+25% mechanoid shredding speed",
+          "+10% mechanoid shredding efficiency"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Scrapper",
+      "name": "scrapper"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a natural leader, he is good at social interactions and can handle stressful situations that others might not.",
+      "stats": [
+        "+5 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+20.00% conversion power",
+        "-20% global certainty loss factor",
+        "+20% per day slave suppression fall rate",
+        "-10% mental break threshold"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+5 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+20.00% conversion power",
+          "-20% global certainty loss factor",
+          "+20% per day slave suppression fall rate",
+          "-10% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_NaturalLeader",
+      "name": "naturalleader"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy's body has built up a resistance to the negative effects of toxic fallout.",
+      "stats": [
+        "+30% toxic resistance",
+        "+30% toxic environment resistance",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ghoulish"
+        ],
+        "stats": [
+          "+30% toxic resistance",
+          "+30% toxic environment resistance",
+          "+10% immunity gain speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_RadResistant",
+      "name": "radresistant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy's body has built up a tolerance to the negative effects of toxic fallout.",
+      "stats": [
+        "+60% toxic resistance",
+        "+60% toxic environment resistance",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ghoulish"
+        ],
+        "stats": [
+          "+60% toxic resistance",
+          "+60% toxic environment resistance",
+          "+10% immunity gain speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_RadResistant",
+      "name": "radtolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There's no time to waste! Timmy has increased movement and work speed.",
+      "stats": [
+        "+0.20 move speed",
+        "+20% global work speed",
+        "+20% eating speed",
+        "+10% rest rate multiplier"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actiongirl",
+        "blitz"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actiongirl",
+          "blitz"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+20% global work speed",
+          "+20% eating speed",
+          "+10% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_ActionBoy",
+      "name": "actionboy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There's no time to waste! Timmy has increased movement and work speed.",
+      "stats": [
+        "+0.20 move speed",
+        "+20% global work speed",
+        "+20% eating speed",
+        "+10% rest rate multiplier"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actionboy",
+        "blitz"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actionboy",
+          "blitz"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+20% global work speed",
+          "+20% eating speed",
+          "+10% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_ActionGirl",
+      "name": "actiongirl"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has quick hands. When it comes to his hands, Timmy never hesitates.",
+      "stats": [
+        "+2 melee",
+        "+20% global work speed",
+        "-10% aiming time",
+        "+5.0 melee hit chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 melee",
+          "+20% global work speed",
+          "-10% aiming time",
+          "+5.0 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_QuickHands",
+      "name": "quickhands"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a gun nut, he loves guns so much that he gets a mood boost while holding a ranged weapon.",
+      "stats": [
+        "+3 shooting",
+        "-10% aiming time",
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "wimp",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "wimp",
+          "ironfist"
+        ],
+        "stats": [
+          "+3 shooting",
+          "-10% aiming time",
+          "+5.0 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_GunNut",
+      "name": "gunnut"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy knows how to scavenge and gather for resources quickly, but if you think that's fast wait until you see he eat!",
+      "stats": [
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+20% plant work speed",
+        "+20% animal gather speed",
+        "+20% butchery speed",
+        "+20% mechanoid shredding speed",
+        "+50% eating speed"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+20% plant work speed",
+          "+20% animal gather speed",
+          "+20% butchery speed",
+          "+20% mechanoid shredding speed",
+          "+50% eating speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Scrounger",
+      "name": "scrounger"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is survialist. he has a natural ability to survive some situations that others might not.",
+      "stats": [
+        "+2 plants",
+        "-10% incoming damage multiplier",
+        "+10% immunity gain speed",
+        "+10% injury healing factor",
+        "+10% plant harvest yield",
+        "+0.5 foraged food amount"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+2 plants",
+          "-10% incoming damage multiplier",
+          "+10% immunity gain speed",
+          "+10% injury healing factor",
+          "+10% plant harvest yield",
+          "+0.5 foraged food amount"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Survivalist",
+      "name": "survivalist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy finds the gap to make the tackle! he moves quickly and gets the jobs done before anyone can react.",
+      "stats": [
+        "+2 melee",
+        "+0.25 move speed",
+        "+25% global work speed",
+        "+10.0 melee hit chance"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actionboy",
+        "actiongirl",
+        "rooted",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actionboy",
+          "actiongirl",
+          "rooted",
+          "perfectionist"
+        ],
+        "stats": [
+          "+2 melee",
+          "+0.25 move speed",
+          "+25% global work speed",
+          "+10.0 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Blitz",
+      "name": "blitz"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is a philanthropist. he is generally good natured and cares for the welfare of others.",
+      "stats": [
+        "+3 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+5.00% trade price improvement",
+        "+5.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "cannibal",
+        "psychopath",
+        "pyromaniac",
+        "abrasive",
+        "jealous",
+        "greedy",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cannibal",
+          "psychopath",
+          "pyromaniac",
+          "abrasive",
+          "jealous",
+          "greedy",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+5.00% trade price improvement",
+          "+5.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Philanthropist",
+      "name": "philanthropist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has healing hands. Whether it's for patching up or food the colony knows they can count on his healing touch.",
+      "stats": [
+        "+5 medical",
+        "+2 cooking",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% medical operation speed",
+        "+10% medical surgery success chance",
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+5 medical",
+          "+2 cooking",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% medical operation speed",
+          "+10% medical surgery success chance",
+          "-10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_HealingHands",
+      "name": "healinghands"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is part tree! It takes more to bring Timmy down but also more to get him moving.",
+      "stats": [
+        "+2 melee",
+        "-0.20 move speed",
+        "-10% incoming damage multiplier",
+        "+10% pain shock threshold",
+        "+10% plant work speed",
+        "-20% global certainty loss factor",
+        "+20% per day slave suppression fall rate"
+      ],
+      "conflicts": [
+        "wimp",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive"
+        ],
+        "stats": [
+          "+2 melee",
+          "-0.20 move speed",
+          "-10% incoming damage multiplier",
+          "+10% pain shock threshold",
+          "+10% plant work speed",
+          "-20% global certainty loss factor",
+          "+20% per day slave suppression fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Rooted",
+      "name": "rooted"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a lead belly. his belly can go much longer without food and he is more resistant to toxic radiation.",
+      "stats": [
+        "-30% bed hunger rate multiplier",
+        "+20% toxic resistance",
+        "+20% toxic environment resistance",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "ironstomach"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ironstomach"
+        ],
+        "stats": [
+          "-30% bed hunger rate multiplier",
+          "+20% toxic resistance",
+          "+20% toxic environment resistance",
+          "+10% immunity gain speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_LeadBelly",
+      "name": "leadbelly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is serendipitous, he seems to be a pretty lucky individual and he's pretty happy about it too.",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "+10.0 shooting accuracy",
+        "+10% per day slave suppression fall rate",
+        "x50% trap spring chance"
+      ],
+      "conflicts": [
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "oblivious"
+        ],
+        "stats": [
+          "+10.0 melee dodge chance",
+          "+10.0 shooting accuracy",
+          "+10% per day slave suppression fall rate",
+          "x50% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Serendipitous",
+      "name": "serendipitous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a passion for gardening. he is quick when working with plants and recieves more bountiful yields when harvesting them.",
+      "stats": [
+        "+4 plants",
+        "+10% plant work speed",
+        "+10% plant harvest yield",
+        "+10% drug crop harvest yield",
+        "+1 foraged food amount",
+        "+10% pruning speed"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 plants",
+          "+10% plant work speed",
+          "+10% plant harvest yield",
+          "+10% drug crop harvest yield",
+          "+1 foraged food amount",
+          "+10% pruning speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_GreenThumb",
+      "name": "greenthumb"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a tenderizer! he has a passion for beating meat into submission.",
+      "stats": [
+        "+4 melee",
+        "+2.00 melee DPS",
+        "+20% melee door damage factor",
+        "+1.0 beauty",
+        "+20.00% Arrest success chance",
+        "+20% animal gather speed",
+        "+20% butchery speed",
+        "+10.00% conversion power",
+        "+10% suppression power"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+4 melee",
+          "+2.00 melee DPS",
+          "+20% melee door damage factor",
+          "+1.0 beauty",
+          "+20.00% Arrest success chance",
+          "+20% animal gather speed",
+          "+20% butchery speed",
+          "+10.00% conversion power",
+          "+10% suppression power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Tenderizer",
+      "name": "tenderizer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy seems to discover hidden wealth where ever he goes.",
+      "stats": [
+        "+10% mining yield",
+        "+10% animal gather yield",
+        "+10% plant harvest yield",
+        "+10% drug crop harvest yield",
+        "+10% butchery efficiency",
+        "+10% mechanoid shredding efficiency",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+10% mining yield",
+          "+10% animal gather yield",
+          "+10% plant harvest yield",
+          "+10% drug crop harvest yield",
+          "+10% butchery efficiency",
+          "+10% mechanoid shredding efficiency",
+          "+1 foraged food amount"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_FortuneFinder",
+      "name": "fortunefinder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bountiful butcher! he isn't afraid to dig a little deeper to get what he wants.",
+      "stats": [
+        "+4 cooking",
+        "+20% animal gather speed",
+        "+20% butchery speed",
+        "+20% mechanoid shredding speed",
+        "+10% animal gather yield",
+        "+10% butchery efficiency",
+        "+10% mechanoid shredding efficiency"
+      ],
+      "conflicts": [
+        "animalfriend",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animalfriend",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 cooking",
+          "+20% animal gather speed",
+          "+20% butchery speed",
+          "+20% mechanoid shredding speed",
+          "+10% animal gather yield",
+          "+10% butchery efficiency",
+          "+10% mechanoid shredding efficiency"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_BountifulButcher",
+      "name": "bountifulbutcher"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a passion for animals. he is adept at animal interactions and will bond with them more often. Timmy refuses to hunt animals.",
+      "stats": [
+        "+4 animals",
+        "+1.00% bond chance factor",
+        "+25% animal gather speed",
+        "+10% animal gather yield",
+        "+5.00% tame animal chance",
+        "+5.00% train animal chance",
+        "+5.00% animal products price improvement"
+      ],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "bountifulbutcher",
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "bountifulbutcher",
+          "ghoulish"
+        ],
+        "stats": [
+          "+4 animals",
+          "+1.00% bond chance factor",
+          "+25% animal gather speed",
+          "+10% animal gather yield",
+          "+5.00% tame animal chance",
+          "+5.00% train animal chance",
+          "+5.00% animal products price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a magnetic body, literally! Somehow he able to use his attractiveness on not just colonists, but metals too!.",
+      "stats": [
+        "+2 social",
+        "+2 crafting",
+        "+2.0 beauty",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+20% smelting speed",
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+10.00% conversion power",
+        "-10% global certainty loss factor",
+        "+10.00% Arrest success chance"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant",
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant",
+          "ghoulish"
+        ],
+        "stats": [
+          "+2 social",
+          "+2 crafting",
+          "+2.0 beauty",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+20% smelting speed",
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+10.00% conversion power",
+          "-10% global certainty loss factor",
+          "+10.00% Arrest success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Magnetic",
+      "name": "magnetic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy embodies wellness! Colonist who need treatment can rest easily knowing they have his's expertise keeping them alive.",
+      "stats": [
+        "+5 medical",
+        "+2 plants",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% medical operation speed",
+        "+10% immunity gain speed",
+        "+5% medical surgery success chance"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+5 medical",
+          "+2 plants",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% medical operation speed",
+          "+10% immunity gain speed",
+          "+5% medical surgery success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_LifeGiver",
+      "name": "lifegiver"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a spiritual healer, he is a great doctor with good social skills. Timmy loves to grow and make his own medicine.",
+      "stats": [
+        "+3 medical",
+        "+3 plants",
+        "+2 social",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% drug synthesis speed",
+        "+10% drug crop harvest yield",
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 medical",
+          "+3 plants",
+          "+2 social",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% drug synthesis speed",
+          "+10% drug crop harvest yield",
+          "+10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_SpiritualHealer",
+      "name": "spiritualhealer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is still human, mostly. he is immune to the effects of toxic fallout and much harder to kill but his ghoulish appearance makes interacting with others difficult.",
+      "stats": [
+        "-3 social",
+        "-3 animals",
+        "+100% toxic resistance",
+        "+100% toxic environment resistance",
+        "+50% lifespan factor",
+        "-25% incoming damage multiplier",
+        "+10% immunity gain speed",
+        "+10% injury healing factor",
+        "-3.0 beauty",
+        "-20.00% social impact",
+        "-25.00% tame animal chance",
+        "-25.00% train animal chance"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "radresistant",
+        "radtolerant",
+        "animalfriend",
+        "magnetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "radresistant",
+          "radtolerant",
+          "animalfriend",
+          "magnetic"
+        ],
+        "stats": [
+          "-3 social",
+          "-3 animals",
+          "+100% toxic resistance",
+          "+100% toxic environment resistance",
+          "+50% lifespan factor",
+          "-25% incoming damage multiplier",
+          "+10% immunity gain speed",
+          "+10% injury healing factor",
+          "-3.0 beauty",
+          "-20.00% social impact",
+          "-25.00% tame animal chance",
+          "-25.00% train animal chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Ghoulish",
+      "name": "ghoulish"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't stupid! he is just... different. he works through tasks slowly but learns extremely quickly. he is incapable performing intellectual, social or caring tasks.",
+      "stats": [
+        "+150% global learning factor",
+        "-25% global work speed"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "slowlearner",
+        "charismatic",
+        "verycharismatic",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "stupid",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "generous",
+        "overlygenerous",
+        "scientific",
+        "veryscientific",
+        "philanthropist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "slowlearner",
+          "charismatic",
+          "verycharismatic",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "stupid",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "generous",
+          "overlygenerous",
+          "scientific",
+          "veryscientific",
+          "philanthropist"
+        ],
+        "stats": [
+          "+150% global learning factor",
+          "-25% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_IdiotSavant",
+      "name": "idiotsavant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't very smart. he can mess up doing just about anything.",
+      "stats": [
+        "-2 intellectual",
+        "-2 medical",
+        "-10% research speed",
+        "-20% global learning factor",
+        "-5% construct success chance",
+        "-5% repair success chance",
+        "-10.00% conversion power",
+        "+10% global certainty loss factor"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "idiotsavant",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "healinghands",
+        "scientific",
+        "veryscientific",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "idiotsavant",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "healinghands",
+          "scientific",
+          "veryscientific",
+          "perfectionist"
+        ],
+        "stats": [
+          "-2 intellectual",
+          "-2 medical",
+          "-10% research speed",
+          "-20% global learning factor",
+          "-5% construct success chance",
+          "-5% repair success chance",
+          "-10.00% conversion power",
+          "+10% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Stupid",
+      "name": "stupid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't very aware of his surroundings, or anything at all really. he",
+      "stats": [
+        "-1 intellectual",
+        "-1 medical",
+        "-1 social",
+        "-1 animals",
+        "-20% global learning factor",
+        "-10.0 melee dodge chance",
+        "-5.00% train animal chance",
+        "-5.00% tame animal chance",
+        "-10.00% conversion power",
+        "+10% global certainty loss factor"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "fortunefinder",
+        "scrounger",
+        "serendipitous",
+        "scientific",
+        "veryscientific",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "fortunefinder",
+          "scrounger",
+          "serendipitous",
+          "scientific",
+          "veryscientific",
+          "perfectionist"
+        ],
+        "stats": [
+          "-1 intellectual",
+          "-1 medical",
+          "-1 social",
+          "-1 animals",
+          "-20% global learning factor",
+          "-10.0 melee dodge chance",
+          "-5.00% train animal chance",
+          "-5.00% tame animal chance",
+          "-10.00% conversion power",
+          "+10% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Oblivious",
+      "name": "oblivious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is part woodchuck! he wants everyone to think his great woodworking skills are because of talent but everybody knows it's really because of those dang teeth.",
+      "stats": [
+        "+3 plants",
+        "+3 construction",
+        "+3 artistic",
+        "+30% construction speed",
+        "+30% plant work speed",
+        "+10% plant harvest yield",
+        "-1.0 beauty",
+        "-10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 plants",
+          "+3 construction",
+          "+3 artistic",
+          "+30% construction speed",
+          "+30% plant work speed",
+          "+10% plant harvest yield",
+          "-1.0 beauty",
+          "-10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Woodchucker",
+      "name": "woodchucker"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a wrecking ball! he can push through building material like it's not even there. he really doesn't know his own strength, often breaking things during construction.",
+      "stats": [
+        "+3 melee",
+        "+3 mining",
+        "+1 construction",
+        "+50% construction speed",
+        "+20% melee door damage factor",
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+10.00% Arrest success chance",
+        "+10% suppression power",
+        "-10% construct success chance",
+        "-10% repair success chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "perfectionist"
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 mining",
+          "+1 construction",
+          "+50% construction speed",
+          "+20% melee door damage factor",
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+10.00% Arrest success chance",
+          "+10% suppression power",
+          "-10% construct success chance",
+          "-10% repair success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_WreckingBall",
+      "name": "wreckingball"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a perfectionist with a passion for art. he is great at construction but takes longer to complete tasks because he puts too much effort into making everything perfect.",
+      "stats": [
+        "+4 construction",
+        "+4 artistic",
+        "+20% construct success chance",
+        "+20% repair success chance",
+        "-20% construction speed",
+        "-10% general labor speed",
+        "-10% smoothing speed"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious",
+        "blitz",
+        "wreckingball"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stupid",
+          "oblivious",
+          "blitz",
+          "wreckingball"
+        ],
+        "stats": [
+          "+4 construction",
+          "+4 artistic",
+          "+20% construct success chance",
+          "+20% repair success chance",
+          "-20% construction speed",
+          "-10% general labor speed",
+          "-10% smoothing speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_Perfectionist",
+      "name": "perfectionist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an iron fist! he can punch through foes like they are not even there. Timmy has a passion for melee combat and dislikes ranged weapons.",
+      "stats": [
+        "Shoot frenzy inspiration disabled.",
+        "+4 melee",
+        "-4 shooting",
+        "+3.00 melee DPS",
+        "+10.0 melee hit chance",
+        "+20% melee door damage factor",
+        "+20.00% Arrest success chance",
+        "+10% suppression power"
+      ],
+      "conflicts": [
+        "brawler",
+        "carefulshooter",
+        "trigger-happy",
+        "wimp",
+        "pooraim",
+        "steadyaim",
+        "greataim",
+        "gunnut"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "carefulshooter",
+          "trigger-happy",
+          "wimp",
+          "pooraim",
+          "steadyaim",
+          "greataim",
+          "gunnut"
+        ],
+        "stats": [
+          "Shoot frenzy inspiration disabled.",
+          "+4 melee",
+          "-4 shooting",
+          "+3.00 melee DPS",
+          "+10.0 melee hit chance",
+          "+20% melee door damage factor",
+          "+20.00% Arrest success chance",
+          "+10% suppression power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits Continued",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FT_IronFist",
+      "name": "ironfist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity: Dysphoria",
+        "karmaTypeForAdding": null
+      },
+      "defName": "maleGender",
+      "name": "transmale"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity: Dysphoria",
+        "karmaTypeForAdding": null
+      },
+      "defName": "femaleGender",
+      "name": "transfemale"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity: Dysphoria",
+        "karmaTypeForAdding": null
+      },
+      "defName": "androgyneGender",
+      "name": "trans:androgyne"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
+      "stats": [
+        "x0% dysphoria multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x0% dysphoria multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity: Dysphoria",
+        "karmaTypeForAdding": null
+      },
+      "defName": "noGenderPref",
+      "name": "body-content"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much more affected by dysphoria than normal.",
+      "stats": [
+        "x300% dysphoria multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x300% dysphoria multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity: Dysphoria",
+        "karmaTypeForAdding": null
+      },
+      "defName": "bodySensitive",
+      "name": "body-sensitive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he will be better suited to indoors activities, and needs more accomodations. But Timmy will be all the more efficient for them.",
+      "stats": [
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "+3 crafting",
+        "+3 intellectual",
+        "+75% global work speed",
+        "+100% global learning factor",
+        "-100% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+100% psychic sensitivity",
+        "+100% / day meditation psyfocus gain",
+        "+12.6F min comfortable temperature",
+        "-12.6F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "+3 crafting",
+          "+3 intellectual",
+          "+75% global work speed",
+          "+100% global learning factor",
+          "-100% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+100% psychic sensitivity",
+          "+100% / day meditation psyfocus gain",
+          "+12.6F min comfortable temperature",
+          "-12.6F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_GeniusIndoors",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he will be better suited to outdoor activities, and needs more accomodations and recreation time. But Timmy will be all the more efficient for them.",
+      "stats": [
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "Inspired taming inspiration disabled.",
+        "+3 plants",
+        "+3 animals",
+        "+75% global work speed",
+        "+100% global learning factor",
+        "-100% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+100% psychic sensitivity",
+        "+100% / day meditation psyfocus gain",
+        "+12.6F min comfortable temperature",
+        "-12.6F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "Inspired taming inspiration disabled.",
+          "+3 plants",
+          "+3 animals",
+          "+75% global work speed",
+          "+100% global learning factor",
+          "-100% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+100% psychic sensitivity",
+          "+100% / day meditation psyfocus gain",
+          "+12.6F min comfortable temperature",
+          "-12.6F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_GeniusOutdoors",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he is a free soul who needs a nonverbal way to express hisself, special accomodations, and more recreation time.",
+      "stats": [
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "Inspired taming inspiration disabled.",
+        "-3 animals",
+        "+2 artistic",
+        "+25% global work speed",
+        "+25% global learning factor",
+        "-50% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+50% psychic sensitivity",
+        "+50% / day meditation psyfocus gain",
+        "+10.8F min comfortable temperature",
+        "-10.8F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "Inspired taming inspiration disabled.",
+          "-3 animals",
+          "+2 artistic",
+          "+25% global work speed",
+          "+25% global learning factor",
+          "-50% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+50% psychic sensitivity",
+          "+50% / day meditation psyfocus gain",
+          "+10.8F min comfortable temperature",
+          "-10.8F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_GoodArtistic",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a deep passion for construction, and knows his way around the craft. Careful not to overwork hisself, he needs special accomodations and more recreation time.",
+      "stats": [
+        "-3 crafting",
+        "+2 construction",
+        "+25% global work speed",
+        "+25% global learning factor",
+        "-50% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+50% psychic sensitivity",
+        "+50% / day meditation psyfocus gain",
+        "+10.8F min comfortable temperature",
+        "-10.8F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-3 crafting",
+          "+2 construction",
+          "+25% global work speed",
+          "+25% global learning factor",
+          "-50% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+50% psychic sensitivity",
+          "+50% / day meditation psyfocus gain",
+          "+10.8F min comfortable temperature",
+          "-10.8F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_GoodConstruct",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently, but he absolutely loves people, and is pretty good with social interactions. he needs special accomodations and more recreation time.",
+      "stats": [
+        "+2 social",
+        "-3 cooking",
+        "+50% global work speed",
+        "+50% global learning factor",
+        "-50% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+50% psychic sensitivity",
+        "+100% / day meditation psyfocus gain",
+        "+10.8F min comfortable temperature",
+        "-10.8F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "+2 social",
+          "-3 cooking",
+          "+50% global work speed",
+          "+50% global learning factor",
+          "-50% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+50% psychic sensitivity",
+          "+100% / day meditation psyfocus gain",
+          "+10.8F min comfortable temperature",
+          "-10.8F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_GoodSocial",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a passion for geology, but little else. his needs in accomodations and recreation time are above average.",
+      "stats": [
+        "+2 mining",
+        "-2 animals",
+        "-2 medical",
+        "+125% global work speed",
+        "+125% global learning factor",
+        "-25% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+25% psychic sensitivity",
+        "+25% / day meditation psyfocus gain",
+        "+9.0F min comfortable temperature",
+        "-9.0F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "+2 mining",
+          "-2 animals",
+          "-2 medical",
+          "+125% global work speed",
+          "+125% global learning factor",
+          "-25% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+25% psychic sensitivity",
+          "+25% / day meditation psyfocus gain",
+          "+9.0F min comfortable temperature",
+          "-9.0F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_NeutralMining",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a passion for food, but little else. his needs in accomodations and recreation time are above average.",
+      "stats": [
+        "+2 cooking",
+        "-2 mining",
+        "-2 construction",
+        "+125% global work speed",
+        "+125% global learning factor",
+        "-25% global certainty loss factor",
+        "+50% recreation fall rate",
+        "+25% psychic sensitivity",
+        "+25% / day meditation psyfocus gain",
+        "+9.0F min comfortable temperature",
+        "-9.0F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "+2 cooking",
+          "-2 mining",
+          "-2 construction",
+          "+125% global work speed",
+          "+125% global learning factor",
+          "-25% global certainty loss factor",
+          "+50% recreation fall rate",
+          "+25% psychic sensitivity",
+          "+25% / day meditation psyfocus gain",
+          "+9.0F min comfortable temperature",
+          "-9.0F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_NeutralCook",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a driving passion for field work, but isn't well suited to do much else. he needs special accomodations and lots of recreation time.",
+      "stats": [
+        "-2 crafting",
+        "-2 construction",
+        "-2 medical",
+        "-2 artistic",
+        "-2 mining",
+        "-2 animals",
+        "+1 plants",
+        "-2 cooking",
+        "-25% global work speed",
+        "+25% global learning factor",
+        "+25% global certainty loss factor",
+        "+100% recreation fall rate",
+        "-25% / day meditation psyfocus gain",
+        "+12.6F min comfortable temperature",
+        "-12.6F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-2 crafting",
+          "-2 construction",
+          "-2 medical",
+          "-2 artistic",
+          "-2 mining",
+          "-2 animals",
+          "+1 plants",
+          "-2 cooking",
+          "-25% global work speed",
+          "+25% global learning factor",
+          "+25% global certainty loss factor",
+          "+100% recreation fall rate",
+          "-25% / day meditation psyfocus gain",
+          "+12.6F min comfortable temperature",
+          "-12.6F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_BadPlants",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a driving passion for taking care of animals, but isn't well suited to do much else. he needs special accomodations and lots of recreation time.",
+      "stats": [
+        "-2 crafting",
+        "-2 construction",
+        "-2 medical",
+        "-2 artistic",
+        "-2 mining",
+        "+1 animals",
+        "-2 plants",
+        "-2 cooking",
+        "-25% global work speed",
+        "+25% global learning factor",
+        "+25% global certainty loss factor",
+        "+100% recreation fall rate",
+        "-25% / day meditation psyfocus gain",
+        "+12.6F min comfortable temperature",
+        "-12.6F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-2 crafting",
+          "-2 construction",
+          "-2 medical",
+          "-2 artistic",
+          "-2 mining",
+          "+1 animals",
+          "-2 plants",
+          "-2 cooking",
+          "-25% global work speed",
+          "+25% global learning factor",
+          "+25% global certainty loss factor",
+          "+100% recreation fall rate",
+          "-25% / day meditation psyfocus gain",
+          "+12.6F min comfortable temperature",
+          "-12.6F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_BadAnimals",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he has a driving passion for doctoring, but isn't well suited to do much else. he needs special accomodations and lots of recreation time.",
+      "stats": [
+        "-2 crafting",
+        "-2 construction",
+        "+1 medical",
+        "-2 artistic",
+        "-2 mining",
+        "-2 animals",
+        "-2 plants",
+        "-2 cooking",
+        "-25% global work speed",
+        "+25% global learning factor",
+        "+25% global certainty loss factor",
+        "+100% recreation fall rate",
+        "-25% / day meditation psyfocus gain",
+        "+12.6F min comfortable temperature",
+        "-12.6F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-2 crafting",
+          "-2 construction",
+          "+1 medical",
+          "-2 artistic",
+          "-2 mining",
+          "-2 animals",
+          "-2 plants",
+          "-2 cooking",
+          "-25% global work speed",
+          "+25% global learning factor",
+          "+25% global certainty loss factor",
+          "+100% recreation fall rate",
+          "-25% / day meditation psyfocus gain",
+          "+12.6F min comfortable temperature",
+          "-12.6F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_BadMedical",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he really can't do any work, and although he is autonomous enought to take care of hisself, he can't do much else. he will need special accomodations and lots of recreation time.",
+      "stats": [
+        "-75% global work speed",
+        "-0.50 move speed",
+        "-35% eating speed",
+        "-50% global learning factor",
+        "+75% global certainty loss factor",
+        "+200% recreation fall rate",
+        "-50% psychic sensitivity",
+        "-50% / day meditation psyfocus gain",
+        "+18.0F min comfortable temperature",
+        "-18.0F max comfortable temperature"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-75% global work speed",
+          "-0.50 move speed",
+          "-35% eating speed",
+          "-50% global learning factor",
+          "+75% global certainty loss factor",
+          "+200% recreation fall rate",
+          "-50% psychic sensitivity",
+          "-50% / day meditation psyfocus gain",
+          "+18.0F min comfortable temperature",
+          "-18.0F max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_TerribleNoWork",
+      "name": "autistic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brain works a little differently. he isn't well-suited to most work, and requires special accomodations and lots of recreation time. If his needs aren't met, he becomes moody very easily.",
+      "stats": [
+        "-3 melee",
+        "-3 shooting",
+        "-3 crafting",
+        "-3 construction",
+        "-3 medical",
+        "-3 artistic",
+        "-3 mining",
+        "-3 animals",
+        "-3 plants",
+        "-3 cooking",
+        "-50% global work speed",
+        "-0.35 move speed",
+        "-35% eating speed",
+        "0 carrying capacity",
+        "-35% pain shock threshold",
+        "-50% global learning factor",
+        "+75% global certainty loss factor",
+        "+200% recreation fall rate",
+        "-50% psychic sensitivity",
+        "-50% / day meditation psyfocus gain",
+        "+18.0F min comfortable temperature",
+        "-18.0F max comfortable temperature",
+        "-10% rest rate multiplier",
+        "+10% sleep fall rate"
+      ],
+      "conflicts": [
+        "psychopath",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic",
+        "autistic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychopath",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic",
+          "autistic"
+        ],
+        "stats": [
+          "-3 melee",
+          "-3 shooting",
+          "-3 crafting",
+          "-3 construction",
+          "-3 medical",
+          "-3 artistic",
+          "-3 mining",
+          "-3 animals",
+          "-3 plants",
+          "-3 cooking",
+          "-50% global work speed",
+          "-0.35 move speed",
+          "-35% eating speed",
+          "0 carrying capacity",
+          "-35% pain shock threshold",
+          "-50% global learning factor",
+          "+75% global certainty loss factor",
+          "+200% recreation fall rate",
+          "-50% psychic sensitivity",
+          "-50% / day meditation psyfocus gain",
+          "+18.0F min comfortable temperature",
+          "-18.0F max comfortable temperature",
+          "-10% rest rate multiplier",
+          "+10% sleep fall rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RGBmods Autism+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RGBmods_Autistic_TerribleMoody",
+      "name": "autistic"
     }
   ],
   "races": [
@@ -46091,40 +49945,6 @@
       "enabled": false,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4 Honor value",
-          "+4.60 Move speed",
-          "+90.0F Max comfortable temperature",
-          "+10.8F Min comfortable temperature",
-          "+80 Meat amount",
-          "+75 Leather amount",
-          "+75 Carrying capacity",
-          "+110% Immunity gain speed",
-          "+100% Psychic sensitivity",
-          "+1.0 Melee dodge chance",
-          "+100% Global work speed",
-          "+100% Drug synthesis speed",
-          "+100% Research speed",
-          "+115% Hacking speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "“However, as prosperity inevitably leads to decline, this civilization did not escape the fate of destruction.” The Thucydides Trap led to a great war between two totalitarian regimes on this planet. The outcome of this war has long been lost to history, but one of its most direct consequences was a series of explosions at a nuclear power plant cluster in Siberia, part of the 'Eurasian Common Defense Agreement Alliance.' The massive energy and radioactive materials released from the explosions accidentally awakened a dormant avatar of an Other god deep within the planet (note: to be verified). The awakening of this Other god resulted in two chain reactions: first, the entire Siberian region and parts of Central Asia transformed into enclosed area, making them inaccessible and unobservable from the outside; second, those who were trapped inside the enclosed area, fortunate enough to have survived the war and the 'awakening,' underwent inhuman mutations. The modern scientific community unanimously agrees that these mutated humans are the original 'cinders.'",
-      "defName": "Alien_Cinder",
-      "enabled": true,
-      "name": "Cinder",
-      "price": 2500
     }
   ]
 }

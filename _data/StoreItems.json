@@ -4951,60 +4951,6 @@
 		"defname": "AM_MechBreakerArmor"
 	},
 	{
-		"abr": "deathsuperacidifier",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "VESWW_DeathSuperAcidifier"
-	},
-	{
-		"abr": "commemorative",
-		"price": 333,
-		"category": "Apparel",
-		"defname": "Cinder_Apparel_Commemorative"
-	},
-	{
-		"abr": "snowynightshawl",
-		"price": 230,
-		"category": "Apparel",
-		"defname": "Cinder_Apparel_SnowyNightShawl"
-	},
-	{
-		"abr": "snowynight",
-		"price": 333,
-		"category": "Apparel",
-		"defname": "Cinder_Apparel_SnowyNight"
-	},
-	{
-		"abr": "starryshawl",
-		"price": 230,
-		"category": "Apparel",
-		"defname": "Cinder_Apparel_StarryShawl"
-	},
-	{
-		"abr": "starry",
-		"price": 333,
-		"category": "Apparel",
-		"defname": "Cinder_Apparel_Starry"
-	},
-	{
-		"abr": "ghoulunitgear",
-		"price": 1067,
-		"category": "Armor",
-		"defname": "Cinder_Apparel_GhoulUnitGear"
-	},
-	{
-		"abr": "brokenghoulunitgear",
-		"price": 42,
-		"category": "Armor",
-		"defname": "Cinder_Apparel_BrokenGhoulUnitGear"
-	},
-	{
-		"abr": "cinder",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Cinder"
-	},
-	{
 		"abr": "ancientworkstation",
 		"price": -10,
 		"category": "Production",
@@ -17029,12 +16975,6 @@
 		"defname": "Meat_Otter"
 	},
 	{
-		"abr": "cindermeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Alien_Cinder"
-	},
-	{
 		"abr": "giraffemeat",
 		"price": 3,
 		"category": "Meat",
@@ -20327,126 +20267,6 @@
 		"price": 2967,
 		"category": "Bionic",
 		"defname": "ALE_Terran_T2_A"
-	},
-	{
-		"abr": "bloodrune",
-		"price": 1000,
-		"category": "Artifacts",
-		"defname": "ReviaBloodRune"
-	},
-	{
-		"abr": "bloodrune(inert)",
-		"price": 1000,
-		"category": "Artifacts",
-		"defname": "ReviaBloodRuneBlank"
-	},
-	{
-		"abr": "bloodstone",
-		"price": 167,
-		"category": "Artifacts",
-		"defname": "ReviaRaceBloodstone"
-	},
-	{
-		"abr": "crimsonblossom",
-		"price": 567,
-		"category": "Melee weapons",
-		"defname": "ReviaBlessedSerratedDagger"
-	},
-	{
-		"abr": "eviscerator",
-		"price": 289,
-		"category": "Melee weapons",
-		"defname": "ReviaSerratedDagger"
-	},
-	{
-		"abr": "greaterbloodrune",
-		"price": 5833,
-		"category": "Artifacts",
-		"defname": "ReviaGreaterBloodRune"
-	},
-	{
-		"abr": "greaterbloodrune(inert)",
-		"price": 5833,
-		"category": "Artifacts",
-		"defname": "ReviaGreaterBloodRuneBlank"
-	},
-	{
-		"abr": "harvester",
-		"price": 683,
-		"category": "Melee weapons",
-		"defname": "ReviaSerratedScythe"
-	},
-	{
-		"abr": "lesserbloodrune",
-		"price": 167,
-		"category": "Artifacts",
-		"defname": "ReviaLesserBloodRune"
-	},
-	{
-		"abr": "lesserbloodrune(inert)",
-		"price": 167,
-		"category": "Artifacts",
-		"defname": "ReviaLesserBloodRuneBlank"
-	},
-	{
-		"abr": "palestone",
-		"price": 8,
-		"category": "Artifacts",
-		"defname": "ReviaRacePalestone"
-	},
-	{
-		"abr": "redhaze",
-		"price": 133,
-		"category": "Drugs",
-		"defname": "ReviaRaceRedHaze"
-	},
-	{
-		"abr": "redinquisitor",
-		"price": 1775,
-		"category": "Melee weapons",
-		"defname": "ReviaBlessedSerratedSword"
-	},
-	{
-		"abr": "repeatingcrossbow",
-		"price": 733,
-		"category": "Ranged weapons",
-		"defname": "ReviaRepeatingCrossbow"
-	},
-	{
-		"abr": "scourge",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "ReviaSerratedSword"
-	},
-	{
-		"abr": "shardcannon",
-		"price": 2083,
-		"category": "Ranged weapons",
-		"defname": "ReviaFlechetteCannon"
-	},
-	{
-		"abr": "shatterer",
-		"price": 775,
-		"category": "Melee weapons",
-		"defname": "ReviaWarPick"
-	},
-	{
-		"abr": "shredder",
-		"price": 2133,
-		"category": "Melee weapons",
-		"defname": "ReviaChainSword"
-	},
-	{
-		"abr": "throwingknife",
-		"price": 141,
-		"category": "Ranged weapons",
-		"defname": "ReviaThrowingKnife"
-	},
-	{
-		"abr": "vermilliontide",
-		"price": 6575,
-		"category": "Melee weapons",
-		"defname": "ReviaBlessedSerratedScythe"
 	},
 	{
 		"abr": "aboomasaurus",
@@ -26985,19 +26805,19 @@
 	{
 		"abr": "changshan",
 		"price": 186,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAChangshan"
 	},
 	{
 		"abr": "chima-jeogori",
 		"price": 257,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAHanbok"
 	},
 	{
 		"abr": "chima-jeogori",
 		"price": 257,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAHanbokC"
 	},
 	{
@@ -27015,7 +26835,7 @@
 	{
 		"abr": "durumagi",
 		"price": 257,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAHanbokB"
 	},
 	{
@@ -27069,7 +26889,7 @@
 	{
 		"abr": "empireofdai-youkimilitarycloak",
 		"price": 260,
-		"category": "Misc",
+		"category": "Coat",
 		"defname": "AMAJPCloak"
 	},
 	{
@@ -27087,7 +26907,7 @@
 	{
 		"abr": "empireofdai-youkiuniform",
 		"price": 600,
-		"category": "Misc",
+		"category": "SN Uniform",
 		"defname": "AMAJPUniform"
 	},
 	{
@@ -27123,19 +26943,19 @@
 	{
 		"abr": "federationofzhongmingmilitarycloak",
 		"price": 260,
-		"category": "Misc",
+		"category": "Coat",
 		"defname": "AMACNCloak"
 	},
 	{
 		"abr": "federationofzhongmingnewmilitaryuniform",
 		"price": 717,
-		"category": "Misc",
+		"category": "SN Uniform",
 		"defname": "AMACNNewUniform"
 	},
 	{
 		"abr": "federationofzhongmingoldmilitaryuniform",
 		"price": 533,
-		"category": "Misc",
+		"category": "SN Uniform",
 		"defname": "AMACNOldUniform"
 	},
 	{
@@ -27171,19 +26991,19 @@
 	{
 		"abr": "hanfudress",
 		"price": 219,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAHanfuDress"
 	},
 	{
 		"abr": "haori",
 		"price": 293,
-		"category": "Misc",
+		"category": "Coat",
 		"defname": "AMAHaori"
 	},
 	{
 		"abr": "kanagashi",
 		"price": 257,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAKanagashi"
 	},
 	{
@@ -27195,13 +27015,13 @@
 	{
 		"abr": "kimonomaiddress",
 		"price": 257,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAKimono"
 	},
 	{
 		"abr": "kunoichiuniform",
 		"price": 224,
-		"category": "Misc",
+		"category": "SN Clothes",
 		"defname": "AMAKunoichi"
 	},
 	{
@@ -27378,6 +27198,462 @@
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_MassAirPushSTNL"
 	},
+	{
+		"abr": "arasakaaramidvest",
+		"price": 450,
+		"category": "Armor",
+		"defname": "Apparel_Aramid_Vest_AC"
+	},
+	{
+		"abr": "arasakaballistichelmet",
+		"price": 500,
+		"category": "Headgear",
+		"defname": "Apparel_Helmet_AC"
+	},
+	{
+		"abr": "arasakaballistichelmetwithtechgogs",
+		"price": 842,
+		"category": "Headgear",
+		"defname": "Apparel_Helmet_With_Techgogs_AC"
+	},
+	{
+		"abr": "arasakacap",
+		"price": 87,
+		"category": "Headgear",
+		"defname": "Apparel_Cap_AC"
+	},
+	{
+		"abr": "arasakacyberarm",
+		"price": 1917,
+		"category": "Ultratech",
+		"defname": "Arasaka_Arm_AC"
+	},
+	{
+		"abr": "arasakacyberear",
+		"price": 1917,
+		"category": "Ultratech",
+		"defname": "Arasaka_Ear_AC"
+	},
+	{
+		"abr": "arasakacyberleg",
+		"price": 1917,
+		"category": "Ultratech",
+		"defname": "Arasaka_Leg_AC"
+	},
+	{
+		"abr": "arasakahazmatmask",
+		"price": 265,
+		"category": "Headgear",
+		"defname": "Apparel_Hazmat_Mask_AC"
+	},
+	{
+		"abr": "arasakamantisblades",
+		"price": 2842,
+		"category": "Ultratech",
+		"defname": "Arasaka_Mantis_AC"
+	},
+	{
+		"abr": "arasakamillitarykatana",
+		"price": 742,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Millitary_Katana_AC"
+	},
+	{
+		"abr": "arasakamk.i",
+		"price": 1358,
+		"category": "Ultratech",
+		"defname": "Arasaka_MKI_AC"
+	},
+	{
+		"abr": "arasakamk.ii",
+		"price": 2025,
+		"category": "Ultratech",
+		"defname": "Arasaka_MKII_AC"
+	},
+	{
+		"abr": "arasakamk.iii",
+		"price": 2692,
+		"category": "Ultratech",
+		"defname": "Arasaka_MKIII_AC"
+	},
+	{
+		"abr": "arasakamk.iv",
+		"price": 4950,
+		"category": "Ultratech",
+		"defname": "Arasaka_MKIV_AC"
+	},
+	{
+		"abr": "arasakanowaki",
+		"price": 717,
+		"category": "Ranged weapons",
+		"defname": "Gun_Nowaki_AC"
+	},
+	{
+		"abr": "arasakareinforcedjaw",
+		"price": 1583,
+		"category": "Ultratech",
+		"defname": "Arasaka_Jaw_AC"
+	},
+	{
+		"abr": "arasakareinforcedribcage",
+		"price": 1583,
+		"category": "Ultratech",
+		"defname": "Arasaka_Ribcage_AC"
+	},
+	{
+		"abr": "arasakareinforcedspine",
+		"price": 1917,
+		"category": "Ultratech",
+		"defname": "Arasaka_Spine_AC"
+	},
+	{
+		"abr": "arasakasecurityturret",
+		"price": 1042,
+		"category": "Security",
+		"defname": "Security_Turret_AC"
+	},
+	{
+		"abr": "arasakashigure",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shigure_AC"
+	},
+	{
+		"abr": "arasakasyntheticheart",
+		"price": 1508,
+		"category": "Ultratech",
+		"defname": "Arasaka_Heart_AC"
+	},
+	{
+		"abr": "arasakasynthetickidney",
+		"price": 1508,
+		"category": "Ultratech",
+		"defname": "Arasaka_Kidney_AC"
+	},
+	{
+		"abr": "arasakasyntheticliver",
+		"price": 1508,
+		"category": "Ultratech",
+		"defname": "Arasaka_Liver_AC"
+	},
+	{
+		"abr": "arasakasyntheticlung",
+		"price": 1508,
+		"category": "Ultratech",
+		"defname": "Arasaka_Lung_AC"
+	},
+	{
+		"abr": "arasakasyntheticstomach",
+		"price": 1508,
+		"category": "Ultratech",
+		"defname": "Arasaka_Stomach_AC"
+	},
+	{
+		"abr": "arasakathermalkatana",
+		"price": 2008,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Thermal_Katana_AC"
+	},
+	{
+		"abr": "arasakaturtleneck",
+		"price": 383,
+		"category": "Apparel",
+		"defname": "Apparel_Turtleneck_AC"
+	},
+	{
+		"abr": "arasakawhitecap",
+		"price": 87,
+		"category": "Headgear",
+		"defname": "Apparel_Cap_W_AC"
+	},
+	{
+		"abr": "arasakawhiteworkwear",
+		"price": 162,
+		"category": "Apparel",
+		"defname": "Apparel_Workwear_W_AC"
+	},
+	{
+		"abr": "arasakaworkwear",
+		"price": 162,
+		"category": "Apparel",
+		"defname": "Apparel_Workwear_AC"
+	},
+	{
+		"abr": "arasaka-kiroshicybereye",
+		"price": 1917,
+		"category": "Ultratech",
+		"defname": "Arasaka_Eye_AC"
+	},
+	{
+		"abr": "arcthrower",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_ArcThrower"
+	},
+	{
+		"abr": "beamautopistol",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamAutopistol"
+	},
+	{
+		"abr": "beamcannon",
+		"price": 6583,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamCannon"
+	},
+	{
+		"abr": "beampistol",
+		"price": 1617,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamPistol"
+	},
+	{
+		"abr": "boltcaster",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BoltCaster"
+	},
+	{
+		"abr": "conventionalassaultrifle",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVRifle"
+	},
+	{
+		"abr": "conventionalautopistol",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_TemplarPistol"
+	},
+	{
+		"abr": "conventionalcannon",
+		"price": 1967,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVCannon"
+	},
+	{
+		"abr": "conventionalgrenadelauncher",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVGrenadeLauncher"
+	},
+	{
+		"abr": "conventionalpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVPistol"
+	},
+	{
+		"abr": "conventionalpsiamp",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Util_CVPsiAmp"
+	},
+	{
+		"abr": "conventionalshotgun",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVShotgun"
+	},
+	{
+		"abr": "conventionalsniperrifle",
+		"price": 1317,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVSniperRifle"
+	},
+	{
+		"abr": "gaussrifle",
+		"price": 3042,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagSniperRifle"
+	},
+	{
+		"abr": "healflowermedicine",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "AMAHealFlower"
+	},
+	{
+		"abr": "heavyautocannon",
+		"price": 1950,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVHeavyAutocannon"
+	},
+	{
+		"abr": "heavylaser",
+		"price": 5283,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_LaserCannon"
+	},
+	{
+		"abr": "helixrail-cannon",
+		"price": 4567,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagHeavyAutocannon"
+	},
+	{
+		"abr": "hjke-11yukimura",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_HJKE-11_Yukimura_AC"
+	},
+	{
+		"abr": "hjsh-18masamune",
+		"price": 958,
+		"category": "Ranged weapons",
+		"defname": "Gun_HJSH_18_Masamune_AC"
+	},
+	{
+		"abr": "ingyun",
+		"price": 6,
+		"category": "Textiles",
+		"defname": "AMAIngyun"
+	},
+	{
+		"abr": "jke-x2kenshin",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Gun_JKE-X2_Kenshin_AC"
+	},
+	{
+		"abr": "kal-15bullpup",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagBullpup"
+	},
+	{
+		"abr": "kal-7bullpup",
+		"price": 725,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_CVBullpup"
+	},
+	{
+		"abr": "kal-90bullpup",
+		"price": 3117,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamBullpup"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 1575,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_LaserPistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 2350,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_LaserRifle"
+	},
+	{
+		"abr": "lasersniperrifle",
+		"price": 3558,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_LaserSniperRifle"
+	},
+	{
+		"abr": "magautopistol",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagAutopistol"
+	},
+	{
+		"abr": "magcannon",
+		"price": 4400,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagCannon"
+	},
+	{
+		"abr": "magneticpistol",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagPistol"
+	},
+	{
+		"abr": "magneticrifle",
+		"price": 1925,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_MagRifle"
+	},
+	{
+		"abr": "medikit",
+		"price": 250,
+		"category": "Drugs",
+		"defname": "XCOM_Medikit"
+	},
+	{
+		"abr": "plasmalance",
+		"price": 4917,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamSniperRifle"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 2792,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamRifle"
+	},
+	{
+		"abr": "portablereactor",
+		"price": 2775,
+		"category": "Power",
+		"defname": "PortableReactorSpacer"
+	},
+	{
+		"abr": "psytrainer(neuralsiphon)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_HydromancerNeuralSiphonSTNL"
+	},
+	{
+		"abr": "psytrainer(pull)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AirPullSTNL"
+	},
+	{
+		"abr": "psytrainer(purifyingtide)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PurifyingTideSTNL"
+	},
+	{
+		"abr": "psytrainer(push)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AirPushSTNL"
+	},
+	{
+		"abr": "psytrainer(saltwounds)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SaltWoundsSTNL"
+	},
+	{
+		"abr": "psytrainer(scaldingstrike)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ScaldingBurstSTNL"
+	},
+	{
+		"abr": "psytrainer(tornado)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TornadoSTNL"
+	},
+	{
+		"abr": "psytrainer(torrentialrain)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_TorrentialRainSTNL"
+	},
+	{
+		"abr": "psytrainer(updraft)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_UpdraftSTNL"
+	},
 	],
-	"total": 4765
+	"total": 4857
 }

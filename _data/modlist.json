@@ -20,8 +20,8 @@
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "telardo",
@@ -180,6 +180,24 @@
     "version": null
   },
   {
+    "author": "Andromeda",
+    "name": "Nice Health Tab",
+    "steamId": "3328729902",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "KarmaDreamer",
+    "name": "Anthrosonae Nice Health Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ALIEN and Elktor31",
+    "name": "Arasaka Corporation (Continued)",
+    "steamId": "3571093776",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Halituis Amaricanus",
     "name": "Astronomy Style Pack",
     "steamId": null,
@@ -260,7 +278,7 @@
   {
     "author": "Uuugggg",
     "name": "Build From Inventory - Continued",
-    "steamId": "",
+    "steamId": "3534185281",
     "version": "1.0.0.0"
   },
   {
@@ -312,36 +330,6 @@
     "version": null
   },
   {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "anobs, jecrell and contributors",
-    "name": "JecsTools Unofficial 1.6 BETA",
-    "steamId": "3524247750",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.9.2"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "AOBA",
     "name": "Fortified Features Framework",
     "steamId": null,
@@ -360,6 +348,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Leo39994",
+    "name": "Clean Research Sort",
+    "steamId": "3566639513",
+    "version": "1.0.0"
+  },
+  {
     "author": "Aelanna",
     "name": "Cleaning Speed",
     "steamId": null,
@@ -370,6 +364,12 @@
     "name": "Cold slows down bleeding",
     "steamId": "3551282414",
     "version": "1.0.0"
+  },
+  {
+    "author": "Peorthyr",
+    "name": "Corpses Are Beautiful",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "HeatherAthebyne",
@@ -394,6 +394,18 @@
     "name": "Cuter Biotech Cat/Dog Ear Replacer",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -555,7 +567,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9374.28061"
+    "version": "1.0.9416.33549"
   },
   {
     "author": "Dubwise",
@@ -577,12 +589,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Rimkit",
     "steamId": null,
     "version": null
@@ -600,6 +606,12 @@
     "version": null
   },
   {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
     "steamId": null,
@@ -612,8 +624,14 @@
     "version": null
   },
   {
-    "author": "Erin",
-    "name": "Erin's FFXIV Races",
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Atlas",
+    "name": "Fallout Traits Continued",
     "steamId": null,
     "version": null
   },
@@ -627,7 +645,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
@@ -646,12 +664,6 @@
     "name": "Femboy Trait",
     "steamId": "3456372752",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race - Biotech",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "alite",
@@ -678,6 +690,12 @@
     "version": null
   },
   {
+    "author": "Paul Freeman",
+    "name": "Free Will",
+    "steamId": "2580837227",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Gene Extractor Tiers",
     "steamId": "3016454783",
@@ -693,12 +711,6 @@
     "author": "Helixien",
     "name": "Gestalt Engine (Continued)",
     "steamId": "3392334612",
-    "version": "1.6.0"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Grab Your Tool! (Continued)",
-    "steamId": "2947023388",
     "version": "1.6.0"
   },
   {
@@ -738,12 +750,6 @@
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Health Display",
-    "steamId": "3522897532",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Zaljerem",
     "name": "Hospitality (Continued)",
     "steamId": "3509486825",
@@ -764,6 +770,12 @@
   {
     "author": "HaiLuan",
     "name": "I will be back",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KittyNomad",
+    "name": "Identity: Dysphoria",
     "steamId": null,
     "version": null
   },
@@ -822,10 +834,16 @@
     "version": null
   },
   {
+    "author": "Kurzaen",
+    "name": "Kurzaen's Serious and Silly Backstories",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Live With The Pain",
     "steamId": "2659985388",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "m00nl1ght",
@@ -882,6 +900,24 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Show Me Your Hands",
+    "steamId": "2475965842",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Nice Hands Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andromeda",
+    "name": "Nice Inventory Tab",
+    "steamId": "3609897594",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jdalt40",
     "name": "No More Lethal Damage Threshold",
     "steamId": null,
@@ -894,10 +930,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Rhadamant",
+    "name": "No Time Change Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.47"
+    "version": "1.6.82"
   },
   {
     "author": "Mr.Wireman",
@@ -925,12 +967,6 @@
   },
   {
     "author": "Lored",
-    "name": "Obsidia Expansion - Arachnas Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lored",
     "name": "Obsidia Expansion - Ideology Style Pack",
     "steamId": null,
     "version": null
@@ -940,6 +976,12 @@
     "name": "Pawn Editor",
     "steamId": "3219801790",
     "version": "1.0.0+e3a491eafe81dcecb36dd3c0da8993af00904812"
+  },
+  {
+    "author": "José Ángel Soler Ortiz and Densevoid",
+    "name": "Peer Pressure (Continued)",
+    "steamId": "3605155621",
+    "version": "1.0.0.0"
   },
   {
     "author": "Arkymn",
@@ -991,6 +1033,12 @@
   },
   {
     "author": "CharlotteRGB",
+    "name": "RGBmods Autism+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CharlotteRGB",
     "name": "RGBmods Stimming Toys",
     "steamId": null,
     "version": null
@@ -1017,7 +1065,7 @@
     "author": "Mlie",
     "name": "Realistic Human Sounds (Continued)",
     "steamId": "3497264525",
-    "version": "1.6.1"
+    "version": "1.6.2"
   },
   {
     "author": "Zaljerem",
@@ -1026,22 +1074,52 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff - Continued",
-    "steamId": "",
-    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
+    "author": "あめがくる",
+    "name": "Regenerational Deathrest",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Fox with a Shotgun, Shashlichnik ;p (aka Шашлычник ;р) and Lost",
-    "name": "Revia Race - Biotech",
-    "steamId": "2893157989",
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "3526354009",
+    "version": "1.0.0+0f1f0dd494303f4a598867a80f0d26896a8a54b6"
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.9.5"
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kev675243",
+    "name": "Rim War + Vanilla Base Generation Expanded Patch",
+    "steamId": "3459675416",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Rim of Madness - Vampires (Continued)",
+    "steamId": "3599360002",
+    "version": "0.0.0.0"
   },
   {
     "author": "InfinitySamurai",
     "name": "RimConnect",
     "steamId": "1880784338",
     "version": "1.6.0"
+  },
+  {
+    "author": "L0veNote",
+    "name": "RimCord - Discord Rich Presence",
+    "steamId": "3599106147",
+    "version": "1.0.0.0"
   },
   {
     "author": "ruPal",
@@ -1086,8 +1164,20 @@
     "version": null
   },
   {
+    "author": "Happycam",
+    "name": "Rimwar Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo, Updated by Ogliss and kotobike",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "RunAndGun - Continued",
     "steamId": null,
     "version": null
   },
@@ -1107,7 +1197,7 @@
     "author": "Zaljerem",
     "name": "Simple FX: Shinies (Continued)",
     "steamId": "3266722212",
-    "version": "1.0.5.0"
+    "version": "1.4"
   },
   {
     "author": "AUTOMATIC",
@@ -1191,7 +1281,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Weilbyte",
@@ -1299,7 +1389,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -1312,6 +1402,12 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.6.0"
+  },
+  {
+    "author": "Side1iner",
+    "name": "Trait Slots Plus",
+    "steamId": "3217782973",
+    "version": "1.0.0.0"
   },
   {
     "author": "Shenanigans",
@@ -1400,12 +1496,6 @@
   {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
   },
@@ -1526,8 +1616,8 @@
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Nutrient Paste Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2920385763",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -1659,7 +1749,7 @@
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
-    "version": "1.0.0.1"
+    "version": "0.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -1740,6 +1830,30 @@
     "version": null
   },
   {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Laser Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Magnetic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Plasma Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Crustypeanut and Mersid",
     "name": "War Crimes Expanded 2 Core (Updated)",
     "steamId": null,
@@ -1748,6 +1862,12 @@
   {
     "author": "vin",
     "name": "Warehouse Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Weapon Sounds Overhaul",
     "steamId": null,
     "version": null
   },
@@ -1844,12 +1964,6 @@
   {
     "author": "Wyr3d",
     "name": "[WYD] Worthless Junk (Adjusted)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "莫鱼(chitoseender) and 堂丸(TangW)",
-    "name": "派系选择生态 Faction choose biomes",
     "steamId": null,
     "version": null
   }

@@ -330,6 +330,30 @@
     "version": null
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AOBA",
     "name": "Fortified Features Framework",
     "steamId": null,
@@ -394,18 +418,6 @@
     "name": "Cuter Biotech Cat/Dog Ear Replacer",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.9.2"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -604,12 +616,6 @@
     "name": "Dubs Skylights Addon",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "anobs, jecrell and contributors",
-    "name": "JecsTools Unofficial 1.6 BETA",
-    "steamId": "3524247750",
-    "version": "1.5.0.0"
   },
   {
     "author": "EdB",
@@ -994,6 +1000,12 @@
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
+    "author": "Swiety Judasz",
+    "name": "Plants and Mushrooms Retexture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mort Strudel",
@@ -1886,6 +1898,24 @@
   {
     "author": "Tixiv",
     "name": "Who shot my leg off?",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": "2988801276",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MelonDove and Ancot",
+    "name": "Wolfein Race",
+    "steamId": "3473140562",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot and MelonDove",
+    "name": "Wolfein Race Gene Patch",
     "steamId": null,
     "version": null
   },

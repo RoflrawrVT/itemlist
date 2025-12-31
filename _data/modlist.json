@@ -24,18 +24,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "telardo",
-    "name": "Better Gene Graphics Framework",
-    "steamId": "2880940958",
-    "version": "1.6.0.1+972cbbe1a9fded8c7ea997800ee529e99479958b"
-  },
-  {
-    "author": "金兔子拉面 and telardo",
-    "name": "AFU Cosmetic Gene Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Echo Foxtrot",
     "name": "Acceptable Barracks",
     "steamId": null,
@@ -108,24 +96,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "Altered Carbon 2: ReSleeved",
-    "steamId": "2196278117",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Bread MO and AobaKuma",
     "name": "Ancient mining industry",
     "steamId": null,
@@ -160,6 +130,12 @@
     "name": "Anthrosonae",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
@@ -238,6 +214,12 @@
     "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": "2880940958",
+    "version": "1.6.0.1+972cbbe1a9fded8c7ea997800ee529e99479958b"
   },
   {
     "author": "AUTOMATIC",
@@ -352,18 +334,6 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AOBA",
-    "name": "Fortified Features Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma, Bread Mo, Bill Doors, KV4EX and Mortis",
-    "name": "The Dead Man's Switch",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "BreadMo AOBA",
@@ -690,15 +660,21 @@
     "version": null
   },
   {
+    "author": "AOBA",
+    "name": "Fortified Features Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Eragon, Noobert and Horologium",
     "name": "Fox Overhaul",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
+    "author": "Stoneman",
+    "name": "Free-ish Will",
+    "steamId": "3635076848",
     "version": "0.0.0.0"
   },
   {
@@ -712,12 +688,6 @@
     "name": "Geneva Checklist",
     "steamId": "3339044171",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "Gestalt Engine (Continued)",
-    "steamId": "3392334612",
-    "version": "1.6.0"
   },
   {
     "author": "SirProok",
@@ -736,6 +706,18 @@
     "name": "GrowthWeaponsNew",
     "steamId": "3527036311",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "ThotDestroyerAndDylanScoot",
+    "name": "HALO - The Covenant",
+    "steamId": "3162850653",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "HALO - UNSC Faction (1.6)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -800,8 +782,8 @@
   {
     "author": "LTS",
     "name": "Integrated Implants",
-    "steamId": null,
-    "version": null
+    "steamId": "3223443793",
+    "version": "1.0.0.0"
   },
   {
     "author": "Goblins4Lyfe",
@@ -831,7 +813,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.4.3"
+    "version": "2.6.4.4"
   },
   {
     "author": "Kure",
@@ -945,7 +927,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.82"
+    "version": "1.6.84"
   },
   {
     "author": "Mr.Wireman",
@@ -1095,7 +1077,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "3526354009",
-    "version": "1.0.0+0f1f0dd494303f4a598867a80f0d26896a8a54b6"
+    "version": "1.0.0+bd6da11d87c45c135ed9a389ac2a155139f601a2"
   },
   {
     "author": "Torann",
@@ -1178,6 +1160,12 @@
   {
     "author": "Happycam",
     "name": "Rimwar Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Rimworld: Colonies Evolved | Halo Weapons and Armor (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1449,7 +1437,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0+59eed13a6af64dad43a137082ee184a17bb9f624"
+    "version": "0.1.0.0+21446628d68f4d96a16cce3a772f475935ddc356"
   },
   {
     "author": "Sentinel",
@@ -1508,6 +1496,12 @@
   {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Taranchuk",
+    "name": "Vanilla Christmas Expanded",
     "steamId": null,
     "version": null
   },
@@ -1712,8 +1706,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Erin",
     "name": "Vanilla Races Expanded - Sanguophage",
-    "steamId": "2963116383",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Neronix17",
@@ -1842,30 +1836,6 @@
     "version": null
   },
   {
-    "author": "flangopink",
-    "name": "Vanilla XCOM Laser Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "flangopink",
-    "name": "Vanilla XCOM Magnetic Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "flangopink",
-    "name": "Vanilla XCOM Plasma Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "flangopink",
-    "name": "Vanilla XCOM Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Crustypeanut and Mersid",
     "name": "War Crimes Expanded 2 Core (Updated)",
     "steamId": null,
@@ -1882,12 +1852,6 @@
     "name": "Weapon Sounds Overhaul",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "LotusLand",
-    "name": "Weapon Upgrade",
-    "steamId": "3395769930",
-    "version": "1.0.0.0"
   },
   {
     "author": "Epicguru (James B)",
@@ -1942,6 +1906,12 @@
     "name": "Alpha Biomes",
     "steamId": "1841354677",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
